@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-10-18T10:11+02:00",
-  "count": 364,
+  "updated": "2026-10-18T20:29+02:00",
+  "count": 403,
   "source_doc": "Jobvergleich (Google Doc)",
-  "raw_doc_entries": 440
+  "raw_doc_entries": 480
  },
  "jobs": [
   {
@@ -4699,6 +4699,32 @@
    "rank": 178
   },
   {
+   "id": "cf50de4a0e",
+   "title": "Stage 4D Gaussian Splatting for Autonomous Driving",
+   "company": "CEA",
+   "location": "Saclay (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 5.0,
+   "why": "Kamera/LiDAR/Radar → 4D-GS-Pipeline für 3D-Detektion und HD-Karten",
+   "notes": "",
+   "constraints": "6 Monate ab 01.01.2027; Einschreibung nötig (M1/M2 oder Gap Year, Convention de stage)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.emploi.cea.fr/offre-de-emploi/emploi-stage-4d-gaussian-splatting-for-autonomous-driving-saclay-h-f_41959.aspx",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 179
+  },
+  {
    "id": "0ea7727dce",
    "title": "Internship – Spatial AI and Navigation",
    "company": "Humanoid",
@@ -4722,7 +4748,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 179
+   "rank": 180
   },
   {
    "id": "5727c04f92",
@@ -4748,7 +4774,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 180
+   "rank": 181
   },
   {
    "id": "66f9f6305e",
@@ -4774,7 +4800,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 181
+   "rank": 182
   },
   {
    "id": "0bf6a25978",
@@ -4800,7 +4826,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 182
+   "rank": 183
   },
   {
    "id": "ecc389b6b9",
@@ -4826,7 +4852,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 183
+   "rank": 184
   },
   {
    "id": "0e17266b25",
@@ -4852,7 +4878,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 184
+   "rank": 185
   },
   {
    "id": "414c2bc98c",
@@ -4878,7 +4904,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 185
+   "rank": 186
   },
   {
    "id": "b7068a727a",
@@ -4904,7 +4930,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 186
+   "rank": 187
   },
   {
    "id": "1828cbdfa3",
@@ -4930,7 +4956,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 187
+   "rank": 188
+  },
+  {
+   "id": "580afe7da0",
+   "title": "AI Intern – Vision-Language-Action (VLA) & Data",
+   "company": "RIVR (Amazon)",
+   "location": "Zürich (CH)",
+   "region": "Schweiz",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 5.0,
+   "why": "VLA-Modelle, multimodale Sensordaten, SSL, 3D-Geometrie/Sensor-Fusion für Lieferroboter",
+   "notes": "",
+   "constraints": "Mind. BSc, MSc als Plus → auch nach dem Abschluss",
+   "visa": "Nur Schengen-Bürger (Deutsche ok) – EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.lever.co/rivr/661e87dc-6ce0-4600-b74f-96b011109c28",
+   "section": "Praktika Schweiz (neu 18.10.2026)",
+   "sources": [
+    "Praktika Schweiz (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 189
+  },
+  {
+   "id": "5af2aac1c1",
+   "title": "Stage – Distillation von VLA-Modellen fürs autonome Fahren",
+   "company": "Stellantis",
+   "location": "Poissy (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 5.0,
+   "why": "VLA-Distillation auf 1–2 Mrd. Parameter, Inferenz auf Jetson Thor, ggf. Test im Prototyp",
+   "notes": "",
+   "constraints": "6 Monate, Stage de fin d'études; Einschreibung nötig (M2/letztes Ingenieursjahr)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.groupe-psa.com/offre-de-emploi/emploi-stage-distillation-de-modeles-de-conduite-autonome-vision-langage-action-vla-_19972.aspx",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 190
   },
   {
    "id": "8f7023239d",
@@ -4956,7 +5034,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 188
+   "rank": 191
   },
   {
    "id": "7e37f120bb",
@@ -4982,7 +5060,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 189
+   "rank": 192
+  },
+  {
+   "id": "1c5069df15",
+   "title": "Research Internships",
+   "company": "valeo.ai",
+   "location": "Paris (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 5.0,
+   "why": "Top-Lab für AD-Perception (3D/LiDAR/Radar, SSL); Bewerbung per Mail an die Betreuer; Themenseite ohne Datum, Aktualität per Mail klären",
+   "notes": "u. a. LiDAR-Video-Generation aus Range Images",
+   "constraints": "ca. 6 Monate, Frühjahr/Sommer 2027; MSc-Studierende im letzten Jahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://valeoai.github.io/interns/",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 193
   },
   {
    "id": "6e947c85b2",
@@ -5008,7 +5112,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 190
+   "rank": 194
   },
   {
    "id": "08c9014d14",
@@ -5034,7 +5138,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 191
+   "rank": 195
   },
   {
    "id": "d048de2c88",
@@ -5061,7 +5165,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 192
+   "rank": 196
   },
   {
    "id": "ca96784761",
@@ -5087,7 +5191,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 193
+   "rank": 197
   },
   {
    "id": "0e4b67fef1",
@@ -5113,7 +5217,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 194
+   "rank": 198
   },
   {
    "id": "c9ffdcd7e7",
@@ -5140,7 +5244,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 195
+   "rank": 199
   },
   {
    "id": "6c6dfa10fb",
@@ -5166,7 +5270,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 196
+   "rank": 200
   },
   {
    "id": "45c29ccfc0",
@@ -5192,7 +5296,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 197
+   "rank": 201
   },
   {
    "id": "1631025ecb",
@@ -5218,7 +5322,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 198
+   "rank": 202
   },
   {
    "id": "797b2fd4f3",
@@ -5244,7 +5348,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 199
+   "rank": 203
   },
   {
    "id": "151ada59a8",
@@ -5270,7 +5374,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 200
+   "rank": 204
   },
   {
    "id": "50431febdf",
@@ -5296,7 +5400,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 201
+   "rank": 205
   },
   {
    "id": "fbfbe4eaa4",
@@ -5322,7 +5426,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 202
+   "rank": 206
   },
   {
    "id": "dbad1c2718",
@@ -5348,7 +5452,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 203
+   "rank": 207
+  },
+  {
+   "id": "c863d5b1f2",
+   "title": "Stage – Physical AI & Virtual Twins (DELMIA Robotics)",
+   "company": "Dassault Systèmes",
+   "location": "Paris / Vélizy (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "Physical AI und Robotik-Simulation, Foundation Models für Physik",
+   "notes": "",
+   "constraints": "Einschreibung nötig (Ingenieur-/Masterstudium)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4464328486",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 208
   },
   {
    "id": "d30d3b49c2",
@@ -5374,7 +5504,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 204
+   "rank": 209
+  },
+  {
+   "id": "4a3efe5626",
+   "title": "Robotics Software and Integration – Internship",
+   "company": "Embodied AI",
+   "location": "Lausanne (CH)",
+   "region": "Schweiz",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 4.0,
+   "why": "IL/RL, LeRobot, Isaac Lab, ROS 2, Jetson, echte Roboterarme",
+   "notes": "",
+   "constraints": "Start und Dauer offen; nicht eingeschränkt",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4475476619",
+   "section": "Praktika Schweiz (neu 18.10.2026)",
+   "sources": [
+    "Praktika Schweiz (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 210
+  },
+  {
+   "id": "f4b0828b8b",
+   "title": "Robotics Research, Robot Learning & Manipulation Intern (Spring/Summer/Fall 2027)",
+   "company": "Field AI",
+   "location": "Irvine, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 4.0,
+   "why": "Robot Learning/Manipulation mit Publikationen, passt zu Cerepal-RL",
+   "notes": "",
+   "constraints": "Frühling, Sommer oder Herbst 2027; Einschreibung nötig (Master/PhD)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 211
   },
   {
    "id": "4b15f22acd",
@@ -5400,7 +5582,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 205
+   "rank": 212
   },
   {
    "id": "1779c7dac6",
@@ -5427,7 +5609,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 206
+   "rank": 213
+  },
+  {
+   "id": "1f46d0fdf7",
+   "title": "2027 Summer Intern, AI Research, Embodied AI (Masters)",
+   "company": "General Motors",
+   "location": "Sunnyvale, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "k. A. (Schwesterstelle: bis 11.800 USD/Monat)",
+   "fit": 4.0,
+   "why": "Embodied AI für AV/Robotik",
+   "notes": "",
+   "constraints": "Sommer 2027; Einschreibung nötig; Abschluss zwischen 12/2027 und 06/2028 verlangt → Studium verlängern",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 214
+  },
+  {
+   "id": "79accbf193",
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)",
+   "company": "General Motors",
+   "location": "Sunnyvale, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "bis 11.800 USD/Monat",
+   "fit": 4.0,
+   "why": "Onboard-Autonomie, Edge-Inferenz",
+   "notes": "",
+   "constraints": "Sommer 2027; wie oben (Abschluss 12/2027–06/2028)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 215
   },
   {
    "id": "5c4b5850bc",
@@ -5453,7 +5687,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 207
+   "rank": 216
   },
   {
    "id": "9518b1a219",
@@ -5480,7 +5714,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 208
+   "rank": 217
   },
   {
    "id": "c553ec8e5a",
@@ -5506,7 +5740,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 209
+   "rank": 218
   },
   {
    "id": "1139e78f66",
@@ -5533,7 +5767,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 210
+   "rank": 219
   },
   {
    "id": "e8386185cb",
@@ -5559,7 +5793,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 211
+   "rank": 220
   },
   {
    "id": "0051255f7a",
@@ -5585,7 +5819,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 212
+   "rank": 221
   },
   {
    "id": "e7e11b09a1",
@@ -5611,7 +5845,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 213
+   "rank": 222
   },
   {
    "id": "04fabfd98a",
@@ -5637,7 +5871,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 214
+   "rank": 223
   },
   {
    "id": "4834f3d0f0",
@@ -5664,7 +5898,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 215
+   "rank": 224
   },
   {
    "id": "975eab1098",
@@ -5690,7 +5924,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 216
+   "rank": 225
   },
   {
    "id": "4eb79aa98c",
@@ -5717,7 +5951,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 217
+   "rank": 226
   },
   {
    "id": "6893326bce",
@@ -5743,7 +5977,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 218
+   "rank": 227
   },
   {
    "id": "2c5021ba9e",
@@ -5769,7 +6003,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 219
+   "rank": 228
   },
   {
    "id": "1d769415bb",
@@ -5795,7 +6029,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 220
+   "rank": 229
+  },
+  {
+   "id": "de573e1771",
+   "title": "Autonomy Software Engineering Internship, World Modeling",
+   "company": "Persona AI",
+   "location": "Houston, TX (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "bezahlt (k. A.)",
+   "fit": 4.0,
+   "why": "Humanoid-Autonomie, Video-/VLM-Daten, NVIDIA Cosmos, Isaac Sim",
+   "notes": "",
+   "constraints": "Kohorten Herbst 2026 / Frühling / Sommer 2027; Einschreibung nötig (BS/MS/PhD)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 230
   },
   {
    "id": "d44a80efec",
@@ -5821,7 +6081,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 221
+   "rank": 231
+  },
+  {
+   "id": "be55a8ad50",
+   "title": "Summer Perception Engineering Internship (Robotics)",
+   "company": "Puralink",
+   "location": "Sydney (Mascot), Australia",
+   "region": "Australien",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 4.0,
+   "why": "Perception für Rohr-Inspektionsroboter: RGB/Tiefe/LiDAR/IMU, Kalibrierung, SLAM/Sensor-Fusion als Plus",
+   "notes": "",
+   "constraints": "australischer Sommer 2026/27; Einschreibung nötig („You're studying Robotics, CS, EE“)",
+   "visa": "Keine Visa-Aussage → Working Holiday 417",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4478189521",
+   "section": "Praktika Australien (neu 18.10.2026)",
+   "sources": [
+    "Praktika Australien (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 232
   },
   {
    "id": "0fa0851ea8",
@@ -5847,7 +6133,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 222
+   "rank": 233
   },
   {
    "id": "f9931da723",
@@ -5873,7 +6159,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 223
+   "rank": 234
   },
   {
    "id": "6d24c9f816",
@@ -5899,7 +6185,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 224
+   "rank": 235
   },
   {
    "id": "85fb59a6f5",
@@ -5925,7 +6211,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 225
+   "rank": 236
+  },
+  {
+   "id": "45c19164d4",
+   "title": "Intern – Robot Perception (auch als Co-op ausgeschrieben)",
+   "company": "Symbotic",
+   "location": "Wilmington, MA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "32–44 USD/h, Wohn-/Reisezuschuss",
+   "fit": 4.0,
+   "why": "Roboter-Perception für Lagerautomatisierung, Publikationen erwünscht",
+   "notes": "",
+   "constraints": "2027; Einschreibung nötig (Master/PhD)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4468188069",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 237
   },
   {
    "id": "fee5752989",
@@ -5951,7 +6263,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 226
+   "rank": 238
+  },
+  {
+   "id": "74f1b538e2",
+   "title": "3D Point Cloud Map Cleaning – Internship",
+   "company": "TLD Robotics",
+   "location": "Toulouse (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 4.0,
+   "why": "Punktwolken-Karten mit Deep Learning für autonome Flughafenfahrzeuge",
+   "notes": "",
+   "constraints": "6 Monate ab März/April 2027; Einschreibung nötig",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4476019326",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 239
   },
   {
    "id": "a92a70ce75",
@@ -5977,7 +6315,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 227
+   "rank": 240
   },
   {
    "id": "07f3a36037",
@@ -6004,7 +6342,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 228
+   "rank": 241
   },
   {
    "id": "8be53d3019",
@@ -6030,7 +6368,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 229
+   "rank": 242
   },
   {
    "id": "5e0fd0a047",
@@ -6056,7 +6394,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 230
+   "rank": 243
   },
   {
    "id": "a71c55f31c",
@@ -6082,7 +6420,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 231
+   "rank": 244
   },
   {
    "id": "41308c77e4",
@@ -6108,7 +6446,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 232
+   "rank": 245
   },
   {
    "id": "51cf6861a1",
@@ -6134,7 +6472,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 233
+   "rank": 246
   },
   {
    "id": "bfc2c2d980",
@@ -6161,7 +6499,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 234
+   "rank": 247
   },
   {
    "id": "a3d4a06937",
@@ -6188,7 +6526,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 235
+   "rank": 248
+  },
+  {
+   "id": "d7b4053c4b",
+   "title": "Intern Computer Vision",
+   "company": "Birdseye Security Solutions",
+   "location": "Mississauga/Toronto (Canada)",
+   "region": "Kanada",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.5,
+   "why": "Video-Analytics/Detektion für Sicherheitskameras",
+   "notes": "",
+   "constraints": "Graduate-Studierende bevorzugt, starkes Portfolio reicht auch",
+   "visa": "Keine Visa-Aussage → IEC",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4471785110",
+   "section": "Praktika Kanada (neu 18.10.2026)",
+   "sources": [
+    "Praktika Kanada (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 249
+  },
+  {
+   "id": "567a71abb4",
+   "title": "Stage – quantisierungsbewusstes Token-Pruning für Embedded Vision Transformers",
+   "company": "CEA",
+   "location": "Saclay (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.5,
+   "why": "Edge-ViT-Optimierung, passt zu TensorRT/Jetson",
+   "notes": "",
+   "constraints": "ab 01.03.2027; Einschreibung nötig (M2)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4471338419",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 250
   },
   {
    "id": "763384d1f4",
@@ -6214,7 +6604,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 236
+   "rank": 251
+  },
+  {
+   "id": "6076f7e161",
+   "title": "Student Researcher 2027",
+   "company": "Google",
+   "location": "London / Zürich / Paris u. a. (UK)",
+   "region": "Schweiz",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.5,
+   "why": "breites Programm, Projektzuordnung nach Profil",
+   "notes": "EMEA, Forschungsprojekte in CV/ML/Robotik möglich",
+   "constraints": "2027, flexibel; Einschreibung nötig – Bachelor/Master/PhD an Hochschule in EMEA (TU Berlin zählt)",
+   "visa": "Muss lokale Arbeitserlaubnis haben oder „local immigration eligibility“ erfüllen; London → UK-Visum nötig, Zürich → EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4474295486",
+   "section": "Praktika UK / England (neu 18.10.2026)",
+   "sources": [
+    "Praktika UK / England (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 252
+  },
+  {
+   "id": "13382a3983",
+   "title": "Stage – Multi-Kamera-Triangulation",
+   "company": "HGH Infrared Systems",
+   "location": "Igny (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.5,
+   "why": "Multi-Kamera-Geometrie für 360°-IR-Überwachung",
+   "notes": "",
+   "constraints": "6 Monate, 1. Halbjahr 2027; Einschreibung nötig (Bac+4/5)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4477624947",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 253
   },
   {
    "id": "7793fb6d2d",
@@ -6240,7 +6682,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 237
+   "rank": 254
   },
   {
    "id": "a90cb55c4c",
@@ -6266,7 +6708,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 238
+   "rank": 255
   },
   {
    "id": "c159d5c5cb",
@@ -6292,7 +6734,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 239
+   "rank": 256
   },
   {
    "id": "d8239b6f2a",
@@ -6318,7 +6760,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 240
+   "rank": 257
+  },
+  {
+   "id": "5e4ca51e76",
+   "title": "Stages Bildverarbeitung: Objekterkennung mit KI · multimodale Bildregistrierung mit DL · Multi-View-Erkennung · IMU-Fusion für Navigation",
+   "company": "MBDA",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.5,
+   "why": "Detektion/Registrierung/Fusion, Rüstung (Freigabe wahrscheinlich",
+   "notes": "",
+   "constraints": "6 Monate ab Februar 2027; Einschreibung nötig (letztes Ingenieursjahr, Convention)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4472018830",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 258
   },
   {
    "id": "ab21dd54d9",
@@ -6344,7 +6812,163 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 241
+   "rank": 259
+  },
+  {
+   "id": "6fe62357ed",
+   "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics (Sammelausschreibung)",
+   "company": "NVIDIA",
+   "location": "Santa Clara, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.5,
+   "why": "Sammelpool AV/Robotik",
+   "notes": "",
+   "constraints": "12 Wochen 2027; Einschreibung über die ganze Dauer nötig",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4455473273",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 260
+  },
+  {
+   "id": "ed4b0fabd5",
+   "title": "Machine Learning Internship, Manipulation",
+   "company": "Persona AI",
+   "location": "Houston, TX (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.5,
+   "why": "Lernbasierte Manipulation für Humanoide",
+   "notes": "",
+   "constraints": "2027; Einschreibung nötig",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 261
+  },
+  {
+   "id": "5ff58ae699",
+   "title": "Stage – Straßenschätzung durch Multi-Sensor-Fusion für ADAS",
+   "company": "Renault Group (Ampere)",
+   "location": "Sophia Antipolis (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.5,
+   "why": "Sensor-Fusion ADAS",
+   "notes": "",
+   "constraints": "6 Monate; Einschreibung nötig (letztes Jahr)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4470317625",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 262
+  },
+  {
+   "id": "e30381ce29",
+   "title": "Stage – Navigation durch Keypoint-Detektion in Bildern",
+   "company": "Thales",
+   "location": "Valence (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification nach Studienniveau",
+   "fit": 3.5,
+   "why": "visuelle Navigation (Luftfahrt/Defense",
+   "notes": "",
+   "constraints": "6 Monate; Convention de stage nötig",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4480538306",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 263
+  },
+  {
+   "id": "e63bae07e9",
+   "title": "AI & Control Intern – Whole-Body Control",
+   "company": "Wandercraft",
+   "location": "Paris (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.5,
+   "why": "Ganzkörperregelung Humanoid/Exoskelett (Schwesterstelle Perception & Navigation bekannt, Fit 5",
+   "notes": "",
+   "constraints": "6 Monate; M2/letztes Ingenieursjahr, PhD-Studierende willkommen",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://wandercraft.welcomekit.co/jobs/m-w-ai-control-intern-whole-body-control_paris",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 264
+  },
+  {
+   "id": "5c532b2498",
+   "title": "Computer Vision Engineer – Placement Student (AI & Rapid Prototyping)",
+   "company": "Purple Sector",
+   "location": "Thursley, Surrey (UK), hybrid",
+   "region": "UK",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "£30.000 + Benefits",
+   "fit": 3.0,
+   "why": "CV-Prototypen für Defense/Sicherheit",
+   "notes": "",
+   "constraints": "12 Monate; Frist 20.11.2026; Placement-Jahr für Studierende",
+   "visa": "Keine Visa-Aussage; Placement richtet sich an UK-Studierende → Visum nötig",
+   "deadline": "2026-11-20",
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.gradcracker.com/hub/1508/purplesector/work-placement-internship/83752/computer-vision-engineer-placement-student-ai-and-rapid-prototyping",
+   "section": "Praktika UK / England (neu 18.10.2026)",
+   "sources": [
+    "Praktika UK / England (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 265
   },
   {
    "id": "9cc27d6dec",
@@ -6371,7 +6995,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 242
+   "rank": 266
+  },
+  {
+   "id": "ed306a1ddd",
+   "title": "Stage – Computer Vision & automatisierte Inspektion",
+   "company": "Alstom",
+   "location": "Villeurbanne/Lyon (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "CV-Inspektion von Zügen",
+   "notes": "",
+   "constraints": "6 Monate ab Februar 2027; Einschreibung nötig",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4477354874",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 267
   },
   {
    "id": "daec43ca1e",
@@ -6397,7 +7047,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 243
+   "rank": 268
   },
   {
    "id": "c69270db3c",
@@ -6423,7 +7073,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 244
+   "rank": 269
   },
   {
    "id": "4d31e718da",
@@ -6450,7 +7100,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 245
+   "rank": 270
   },
   {
    "id": "ae4009d4d0",
@@ -6477,7 +7127,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 246
+   "rank": 271
   },
   {
    "id": "b6020eb158",
@@ -6503,7 +7153,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 247
+   "rank": 272
   },
   {
    "id": "e0d520b3a5",
@@ -6529,7 +7179,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 248
+   "rank": 273
   },
   {
    "id": "08a704e5d8",
@@ -6555,7 +7205,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 249
+   "rank": 274
+  },
+  {
+   "id": "5574465150",
+   "title": "Computer Vision Research Engineer – Intern",
+   "company": "Bobyard",
+   "location": "San Francisco, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "55 USD/h",
+   "fit": 3.0,
+   "why": "CV auf Bauplänen (Dokument-AI/OCR/VLM), keine Robotik",
+   "notes": "",
+   "constraints": "12–16 Wochen Vollzeit; Einschreibung nötig (BS/MS/PhD)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 275
   },
   {
    "id": "004514a754",
@@ -6581,7 +7257,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 250
+   "rank": 276
   },
   {
    "id": "b515f23f96",
@@ -6607,7 +7283,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 251
+   "rank": 277
   },
   {
    "id": "6d6704603c",
@@ -6633,7 +7309,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 252
+   "rank": 278
+  },
+  {
+   "id": "1774671d60",
+   "title": "Simulation, Sim to Real Intern",
+   "company": "Field AI",
+   "location": "Irvine, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "30–40 USD/h",
+   "fit": 3.0,
+   "why": "Isaac Sim/MuJoCo, Sim-to-Real-Abgleich",
+   "notes": "",
+   "constraints": "12 Wochen; Einschreibung wahrscheinlich nötig",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 279
   },
   {
    "id": "87277589c9",
@@ -6659,7 +7361,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 253
+   "rank": 280
   },
   {
    "id": "de5fb8496a",
@@ -6685,7 +7387,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 254
+   "rank": 281
   },
   {
    "id": "f4f52d88ba",
@@ -6712,7 +7414,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 255
+   "rank": 282
   },
   {
    "id": "e63a6bf69e",
@@ -6738,7 +7440,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 256
+   "rank": 283
+  },
+  {
+   "id": "0a83e07bf9",
+   "title": "Co-op Researcher",
+   "company": "Huawei Canada",
+   "location": "Montreal (Canada)",
+   "region": "Kanada",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "58–104k CAD/Jahr anteilig",
+   "fit": 3.0,
+   "why": "Forschungs-Co-op, Thema offen",
+   "notes": "",
+   "constraints": "Co-op; Einschreibung nötig (Master/PhD)",
+   "visa": "Keine Visa-Aussage → IEC",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4479716334",
+   "section": "Praktika Kanada (neu 18.10.2026)",
+   "sources": [
+    "Praktika Kanada (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 284
   },
   {
    "id": "95df0c4363",
@@ -6764,7 +7492,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 257
+   "rank": 285
   },
   {
    "id": "393daff685",
@@ -6790,7 +7518,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 258
+   "rank": 286
   },
   {
    "id": "dd6b754f16",
@@ -6816,7 +7544,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 259
+   "rank": 287
   },
   {
    "id": "42460eda8d",
@@ -6843,7 +7571,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 260
+   "rank": 288
   },
   {
    "id": "171198f991",
@@ -6869,7 +7597,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 261
+   "rank": 289
+  },
+  {
+   "id": "832ce187b8",
+   "title": "Research Internships Cambridge Lab",
+   "company": "Microsoft Research",
+   "location": "Cambridge (UK)",
+   "region": "UK",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "bezahlt + Umzugspauschale",
+   "fit": 3.0,
+   "why": "Sammelprogramm, CV-Projekte nur teils",
+   "notes": "12 Wochen, ganzjährig, v. a. Master/PhD",
+   "constraints": "12 Wochen, meist Sommer; Einschreibung nötig (Master/PhD)",
+   "visa": "MSR schreibt: „We'll also help with visa applications where needed“",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/internships/",
+   "section": "Praktika UK / England (neu 18.10.2026)",
+   "sources": [
+    "Praktika UK / England (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 290
   },
   {
    "id": "735958829a",
@@ -6895,7 +7649,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 262
+   "rank": 291
   },
   {
    "id": "ba84cfd5f7",
@@ -6921,7 +7675,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 263
+   "rank": 292
   },
   {
    "id": "c3594d84df",
@@ -6947,7 +7701,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 264
+   "rank": 293
   },
   {
    "id": "2189588bc7",
@@ -6973,7 +7727,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 265
+   "rank": 294
   },
   {
    "id": "93678ac965",
@@ -6999,7 +7753,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 266
+   "rank": 295
   },
   {
    "id": "5d27613f43",
@@ -7011,21 +7765,22 @@
    "remote": false,
    "pay": "",
    "fit": 3.0,
-   "why": "",
+   "why": "CUDA-Bildverarbeitungsbibliotheken",
    "notes": "",
-   "constraints": "",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "constraints": "Einschreibung wahrscheinlich nötig",
+   "visa": "EU-Freizügigkeit",
    "deadline": null,
    "added": "2026-10-15",
    "posted": "15.10.26",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569",
    "section": "15) Praktika Deutschland (Vollzeit-Praktikum, kein Werkstudent/Thesis)",
    "sources": [
-    "15) Praktika Deutschland (Vollzeit-Praktikum, kein Werkstudent/Thesis)"
+    "15) Praktika Deutschland (Vollzeit-Praktikum, kein Werkstudent/Thesis)",
+    "Praktika Schweiz (neu 18.10.2026)"
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 267
+   "rank": 296
   },
   {
    "id": "c67551a6a7",
@@ -7051,7 +7806,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 268
+   "rank": 297
   },
   {
    "id": "258b1d7b42",
@@ -7077,7 +7832,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 269
+   "rank": 298
   },
   {
    "id": "6018ef0e86",
@@ -7104,7 +7859,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 270
+   "rank": 299
+  },
+  {
+   "id": "ccb6b30c57",
+   "title": "Stage R&I – Vision industrielle assistée par IA",
+   "company": "Richemont",
+   "location": "Buttes, Neuchâtel (CH)",
+   "region": "Schweiz",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "KI-Bildverarbeitung in der Uhrenfertigung",
+   "notes": "",
+   "constraints": "Convention de stage obligatoire → Einschreibung nötig",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4469470912",
+   "section": "Praktika Schweiz (neu 18.10.2026)",
+   "sources": [
+    "Praktika Schweiz (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 300
   },
   {
    "id": "629454473c",
@@ -7131,7 +7912,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 271
+   "rank": 301
   },
   {
    "id": "6fba12445c",
@@ -7157,7 +7938,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 272
+   "rank": 302
   },
   {
    "id": "652eadac5a",
@@ -7183,7 +7964,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 273
+   "rank": 303
+  },
+  {
+   "id": "61f0fc8f49",
+   "title": "AI & ML Intern – Applied Sciences",
+   "company": "Trench Group",
+   "location": "Scarborough/Pickering (Canada)",
+   "region": "Kanada",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "22–30 CAD/h",
+   "fit": 3.0,
+   "why": "angewandte ML in Messtechnik (Schwesterstelle AI & Robotics Intern bekannt",
+   "notes": "",
+   "constraints": "4–8 Monate; „Student (completed or in progress)“ → auch nach dem Abschluss",
+   "visa": "Keine Visa-Aussage → IEC",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4454559685",
+   "section": "Praktika Kanada (neu 18.10.2026)",
+   "sources": [
+    "Praktika Kanada (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 304
   },
   {
    "id": "d062916296",
@@ -7209,7 +8016,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 274
+   "rank": 305
   },
   {
    "id": "3ae5bec6c5",
@@ -7235,7 +8042,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 275
+   "rank": 306
   },
   {
    "id": "96cae48427",
@@ -7261,7 +8068,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 276
+   "rank": 307
   },
   {
    "id": "51b80d0813",
@@ -7287,7 +8094,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 277
+   "rank": 308
   },
   {
    "id": "71622f3dd2",
@@ -7313,7 +8120,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 278
+   "rank": 309
   },
   {
    "id": "23c1144f9b",
@@ -7339,7 +8146,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 279
+   "rank": 310
   },
   {
    "id": "9889ebff64",
@@ -7365,7 +8172,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 280
+   "rank": 311
+  },
+  {
+   "id": "cc33c023e9",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+   "company": "Waymo",
+   "location": "Mountain View, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "ML-Evaluation des Simulators",
+   "notes": "",
+   "constraints": "Sommer 2027; Einschreibung nötig (MS/PhD)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 312
   },
   {
    "id": "1d0bd9722a",
@@ -7391,7 +8224,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 281
+   "rank": 313
   },
   {
    "id": "6d8cb1786c",
@@ -7418,7 +8251,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 282
+   "rank": 314
   },
   {
    "id": "4644eeb73d",
@@ -7444,7 +8277,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 283
+   "rank": 315
+  },
+  {
+   "id": "34795e6d31",
+   "title": "2027 Software Engineer Intern (Connected Warfare / C2)",
+   "company": "Anduril Industries",
+   "location": "London (UK)",
+   "region": "UK",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.5,
+   "why": "Software für Führungssysteme, kaum CV",
+   "notes": "",
+   "constraints": "2027; Einschreibung nötig, Abschluss erst 2028, Rückkehr an die Uni",
+   "visa": "Keine Visa-Aussage",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+   "section": "Praktika UK / England (neu 18.10.2026)",
+   "sources": [
+    "Praktika UK / England (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 316
   },
   {
    "id": "22f09541f5",
@@ -7470,7 +8329,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 284
+   "rank": 317
+  },
+  {
+   "id": "1c0b5874f4",
+   "title": "Stage Software Robotics 2027",
+   "company": "Exotec",
+   "location": "Lille (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.5,
+   "why": "Software für Lagerroboter, wenig CV",
+   "notes": "",
+   "constraints": "2027; Einschreibung nötig",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4476296631",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 318
+  },
+  {
+   "id": "43333076c3",
+   "title": "Internship: Robotics Behaviors & User Interfaces",
+   "company": "Hydromea",
+   "location": "Lausanne (CH)",
+   "region": "Schweiz",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.5,
+   "why": "Verhalten/UI für Unterwasser-Drohnen",
+   "notes": "",
+   "constraints": "nicht eingeschränkt",
+   "visa": "„EU/EFTA/CH citizenship“ ok",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4476422257",
+   "section": "Praktika Schweiz (neu 18.10.2026)",
+   "sources": [
+    "Praktika Schweiz (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 319
   },
   {
    "id": "254a297034",
@@ -7496,7 +8407,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 285
+   "rank": 320
+  },
+  {
+   "id": "e44b62b328",
+   "title": "AI Developer Technology Intern 2027",
+   "company": "NVIDIA",
+   "location": "Bristol (UK)",
+   "region": "UK",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.5,
+   "why": "GPU-/CUDA-Optimierung, TensorRT-nah, keine Perception",
+   "notes": "",
+   "constraints": "2027; Einschreibung nötig (BSc/MSc/PhD)",
+   "visa": "Keine Visa-Aussage",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4476220935",
+   "section": "Praktika UK / England (neu 18.10.2026)",
+   "sources": [
+    "Praktika UK / England (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 321
   },
   {
    "id": "41a583c997",
@@ -7522,7 +8459,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 286
+   "rank": 322
   },
   {
    "id": "4ab03810d3",
@@ -7549,7 +8486,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 287
+   "rank": 323
   },
   {
    "id": "d46499cd92",
@@ -7575,7 +8512,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 288
+   "rank": 324
   },
   {
    "id": "f2b39b0ddd",
@@ -7601,7 +8538,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 289
+   "rank": 325
   },
   {
    "id": "a54a9b8e8f",
@@ -7627,7 +8564,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 290
+   "rank": 326
   },
   {
    "id": "b529d7cae4",
@@ -7653,7 +8590,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 291
+   "rank": 327
   },
   {
    "id": "354b71404b",
@@ -7679,7 +8616,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 292
+   "rank": 328
+  },
+  {
+   "id": "05f96e0fb8",
+   "title": "AI/ML Software Engineer Intern (8 Monate, Masters)",
+   "company": "Electronic Arts",
+   "location": "Vancouver (Canada)",
+   "region": "Kanada",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "65–70k CAD/Jahr anteilig",
+   "fit": 2.0,
+   "why": "ML für Spiele",
+   "notes": "",
+   "constraints": "Sommer 2027, 8 Monate; Master-Einschreibung, Abschluss ab 05/2028",
+   "visa": "Ausdrücklich kein Visa-Sponsoring → nur mit IEC",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4477738155",
+   "section": "Praktika Kanada (neu 18.10.2026)",
+   "sources": [
+    "Praktika Kanada (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 329
   },
   {
    "id": "671a3f5dcc",
@@ -7705,7 +8668,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 293
+   "rank": 330
   },
   {
    "id": "edc94e35fa",
@@ -7731,7 +8694,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 294
+   "rank": 331
   },
   {
    "id": "c0c978949f",
@@ -7757,7 +8720,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 295
+   "rank": 332
   },
   {
    "id": "2373a444f8",
@@ -7783,7 +8746,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 296
+   "rank": 333
   },
   {
    "id": "f55bb7bd63",
@@ -7809,7 +8772,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 297
+   "rank": 334
   },
   {
    "id": "b80b7c21b8",
@@ -7835,7 +8798,59 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 298
+   "rank": 335
+  },
+  {
+   "id": "d55b7a3d8c",
+   "title": "Summer Mechatronics Engineering Internship (Robotics)",
+   "company": "Puralink",
+   "location": "Sydney (Mascot), Australia",
+   "region": "Australien",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.0,
+   "why": "Hardware/Testaufbauten",
+   "notes": "",
+   "constraints": "australischer Sommer 2026/27; Einschreibung nötig",
+   "visa": "Keine Visa-Aussage → 417",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4479320654",
+   "section": "Praktika Australien (neu 18.10.2026)",
+   "sources": [
+    "Praktika Australien (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 336
+  },
+  {
+   "id": "1175045e69",
+   "title": "AI Engineer Intern – Proof-carrying Neural Network Controllers (3/6 Monate)",
+   "company": "SLB",
+   "location": "Cambridge (UK)",
+   "region": "UK",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.0,
+   "why": "verifizierbare NN-Regler, wenig CV",
+   "notes": "",
+   "constraints": "ab Sommer 2027; Einschreibung nötig",
+   "visa": "Keine Visa-Aussage",
+   "deadline": null,
+   "added": "2026-10-18",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4475250091",
+   "section": "Praktika UK / England (neu 18.10.2026)",
+   "sources": [
+    "Praktika UK / England (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 337
   },
   {
    "id": "f99f1e6da3",
@@ -7861,7 +8876,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 299
+   "rank": 338
   },
   {
    "id": "5e57065721",
@@ -7887,7 +8902,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 300
+   "rank": 339
   },
   {
    "id": "ba0383cac8",
@@ -7913,7 +8928,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 301
+   "rank": 340
   },
   {
    "id": "31322884d8",
@@ -7939,7 +8954,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 302
+   "rank": 341
   },
   {
    "id": "b93d0c52db",
@@ -7965,7 +8980,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 303
+   "rank": 342
   },
   {
    "id": "ff9f63bb57",
@@ -7991,7 +9006,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 304
+   "rank": 343
   },
   {
    "id": "eb96fe322e",
@@ -8017,7 +9032,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 305
+   "rank": 344
   },
   {
    "id": "c50a9845b1",
@@ -8043,7 +9058,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 306
+   "rank": 345
   },
   {
    "id": "00883d60e2",
@@ -8070,7 +9085,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 307
+   "rank": 346
   },
   {
    "id": "d529404a77",
@@ -8096,7 +9111,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 308
+   "rank": 347
   },
   {
    "id": "26e5debb6d",
@@ -8123,7 +9138,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 309
+   "rank": 348
   },
   {
    "id": "1cd433ae26",
@@ -8149,7 +9164,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 310
+   "rank": 349
   },
   {
    "id": "06b395e992",
@@ -8176,7 +9191,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 311
+   "rank": 350
   },
   {
    "id": "d8d518d379",
@@ -8203,7 +9218,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 312
+   "rank": 351
   },
   {
    "id": "7dfe453549",
@@ -8230,7 +9245,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 313
+   "rank": 352
   },
   {
    "id": "b2ad488e84",
@@ -8257,7 +9272,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 314
+   "rank": 353
   },
   {
    "id": "d3fdeed94f",
@@ -8283,7 +9298,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 315
+   "rank": 354
   },
   {
    "id": "65e1b1bb6e",
@@ -8310,7 +9325,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 316
+   "rank": 355
   },
   {
    "id": "5cf1c14676",
@@ -8337,7 +9352,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 317
+   "rank": 356
   },
   {
    "id": "5cad72d914",
@@ -8364,7 +9379,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 318
+   "rank": 357
   },
   {
    "id": "56c267f791",
@@ -8391,7 +9406,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 319
+   "rank": 358
   },
   {
    "id": "e9a7709bce",
@@ -8418,7 +9433,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 320
+   "rank": 359
   },
   {
    "id": "fc0b80f9dc",
@@ -8444,7 +9459,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 321
+   "rank": 360
   },
   {
    "id": "ae3e718035",
@@ -8471,7 +9486,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 322
+   "rank": 361
   },
   {
    "id": "1b36b59533",
@@ -8497,7 +9512,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 323
+   "rank": 362
   },
   {
    "id": "6ece261e61",
@@ -8523,7 +9538,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 324
+   "rank": 363
   },
   {
    "id": "86aa65ca93",
@@ -8549,7 +9564,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 325
+   "rank": 364
   },
   {
    "id": "90d80ca930",
@@ -8575,7 +9590,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 326
+   "rank": 365
   },
   {
    "id": "389ba579d6",
@@ -8602,7 +9617,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 327
+   "rank": 366
   },
   {
    "id": "e9e9d7acaa",
@@ -8628,7 +9643,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 328
+   "rank": 367
   },
   {
    "id": "a759aacca8",
@@ -8654,7 +9669,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 329
+   "rank": 368
   },
   {
    "id": "d4ebf09b15",
@@ -8681,7 +9696,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 330
+   "rank": 369
   },
   {
    "id": "5f65784ae8",
@@ -8707,7 +9722,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 331
+   "rank": 370
   },
   {
    "id": "f40c087910",
@@ -8734,7 +9749,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 332
+   "rank": 371
   },
   {
    "id": "b71461cb3e",
@@ -8761,7 +9776,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 333
+   "rank": 372
   },
   {
    "id": "6f02259f3f",
@@ -8787,7 +9802,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 334
+   "rank": 373
   },
   {
    "id": "fe099cec99",
@@ -8813,7 +9828,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 335
+   "rank": 374
   },
   {
    "id": "a1efc9b4bc",
@@ -8839,7 +9854,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 336
+   "rank": 375
   },
   {
    "id": "84ca54e29d",
@@ -8866,7 +9881,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 337
+   "rank": 376
   },
   {
    "id": "8bb03e0183",
@@ -8892,7 +9907,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 338
+   "rank": 377
   },
   {
    "id": "51e4629fee",
@@ -8918,7 +9933,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 339
+   "rank": 378
   },
   {
    "id": "14325b3463",
@@ -8945,7 +9960,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 340
+   "rank": 379
   },
   {
    "id": "99a2bbb002",
@@ -8972,7 +9987,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 341
+   "rank": 380
   },
   {
    "id": "c2c5a74fe0",
@@ -8999,7 +10014,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 342
+   "rank": 381
   },
   {
    "id": "e3232def18",
@@ -9026,7 +10041,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 343
+   "rank": 382
   },
   {
    "id": "30cc40b82a",
@@ -9053,7 +10068,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 344
+   "rank": 383
   },
   {
    "id": "2b22745a1d",
@@ -9079,7 +10094,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 345
+   "rank": 384
   },
   {
    "id": "32308d9beb",
@@ -9105,7 +10120,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 346
+   "rank": 385
   },
   {
    "id": "5014a15562",
@@ -9131,7 +10146,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 347
+   "rank": 386
   },
   {
    "id": "79d23b0ba3",
@@ -9157,7 +10172,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 348
+   "rank": 387
   },
   {
    "id": "6c611f0de5",
@@ -9184,7 +10199,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 349
+   "rank": 388
   },
   {
    "id": "5e90cd280c",
@@ -9210,7 +10225,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 350
+   "rank": 389
   },
   {
    "id": "77cb6405fe",
@@ -9236,7 +10251,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 351
+   "rank": 390
   },
   {
    "id": "bd0266818e",
@@ -9262,7 +10277,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 352
+   "rank": 391
   },
   {
    "id": "707a39a841",
@@ -9288,7 +10303,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 353
+   "rank": 392
   },
   {
    "id": "362883d310",
@@ -9314,7 +10329,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 354
+   "rank": 393
   },
   {
    "id": "0f72fbeaa6",
@@ -9340,7 +10355,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 355
+   "rank": 394
   },
   {
    "id": "d96644af0e",
@@ -9366,7 +10381,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 356
+   "rank": 395
   },
   {
    "id": "aa6835fca9",
@@ -9393,7 +10408,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 357
+   "rank": 396
   },
   {
    "id": "26608a190f",
@@ -9419,7 +10434,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 358
+   "rank": 397
   },
   {
    "id": "370481d0b3",
@@ -9445,7 +10460,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 359
+   "rank": 398
   },
   {
    "id": "f493d179ed",
@@ -9472,7 +10487,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 360
+   "rank": 399
   },
   {
    "id": "945ff68c74",
@@ -9498,7 +10513,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 361
+   "rank": 400
   },
   {
    "id": "a3a6ae0e4e",
@@ -9524,7 +10539,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 362
+   "rank": 401
   },
   {
    "id": "d9e9f59c65",
@@ -9551,7 +10566,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 363
+   "rank": 402
   },
   {
    "id": "f8a4dc0fb8",
@@ -9577,7 +10592,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 364
+   "rank": 403
   }
  ]
 }
