@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-10-18T20:29+02:00",
-  "count": 403,
+  "updated": "2026-10-19T09:11+02:00",
+  "count": 432,
   "source_doc": "Jobvergleich (Google Doc)",
-  "raw_doc_entries": 480
+  "raw_doc_entries": 515
  },
  "jobs": [
   {
@@ -1884,6 +1884,33 @@
    "rank": 71
   },
   {
+   "id": "5c5465e513",
+   "title": "Entwicklungsingenieur Algorithmen für inertiale und multisensorische Navigationssysteme, Ref. 2026-0436",
+   "company": "Northrop Grumman LITEF (Rüstung)",
+   "location": "Freiburg, Homeoffice möglich",
+   "region": "Deutschland",
+   "type": "Vollzeit",
+   "remote": true,
+   "pay": "IG-Metall-Tarif BW",
+   "fit": 3.0,
+   "why": "Zustandsschätzung/Fusion statt Deep-Learning-CV",
+   "notes": "",
+   "constraints": "Berufseinstieg möglich; Kalman-Filter, Multisensor-Fusion inkl. visueller Navigation",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://recruitingapp-5555.de.umantis.com/Vacancies/873/Description/1",
+   "section": "2) Industrie – Vollzeit",
+   "sources": [
+    "2) Industrie – Vollzeit",
+    "Tagesdigest 19.10. – Rüstung / Defense-nah"
+   ],
+   "group": 2,
+   "group_label": "Vollzeit Deutschland",
+   "rank": 72
+  },
+  {
    "id": "7a11417ec2",
    "title": "Softwaredeveloper AI-based Imageprocessing (Braunschweig)",
    "company": "Rheinmetall",
@@ -1907,7 +1934,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 72
+   "rank": 73
   },
   {
    "id": "8a4301b10c",
@@ -1933,7 +1960,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 73
+   "rank": 74
   },
   {
    "id": "3fb4879794",
@@ -1960,7 +1987,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 74
+   "rank": 75
   },
   {
    "id": "87565c1383",
@@ -1986,7 +2013,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 75
+   "rank": 76
   },
   {
    "id": "54fbccaf71",
@@ -2013,7 +2040,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 76
+   "rank": 77
   },
   {
    "id": "9c7a1e67e0",
@@ -2039,7 +2066,34 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 77
+   "rank": 78
+  },
+  {
+   "id": "d23fbd4982",
+   "title": "Multi-Sensor SLAM / Fusion Navigation SW Engineer",
+   "company": "Trimble",
+   "location": "Höhenkirchen-Siegertsbrunn bei München",
+   "region": "Deutschland",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "65–80k (Schätzung)",
+   "fit": 3.0,
+   "why": "Sensorfusion/SLAM-Navigation, kaum Kamera-CV",
+   "notes": "",
+   "constraints": "LinkedIn: Mid-Senior; Master nötig; AINS/GNSS-INS-Fusion in C++",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Multi-Sensor-SLAM-Fusion-Navigation-SW-Engineer_R54393",
+   "section": "2) Industrie – Vollzeit",
+   "sources": [
+    "2) Industrie – Vollzeit",
+    "Tagesdigest 19.10. – Rest Deutschland"
+   ],
+   "group": 2,
+   "group_label": "Vollzeit Deutschland",
+   "rank": 79
   },
   {
    "id": "3c47edc922",
@@ -2066,7 +2120,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 78
+   "rank": 80
   },
   {
    "id": "3d24183574",
@@ -2093,7 +2147,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 79
+   "rank": 81
   },
   {
    "id": "127e4d77fd",
@@ -2119,7 +2173,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 80
+   "rank": 82
   },
   {
    "id": "cf067f57ea",
@@ -2145,7 +2199,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 81
+   "rank": 83
   },
   {
    "id": "040e33444e",
@@ -2171,7 +2225,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 82
+   "rank": 84
   },
   {
    "id": "386a13f517",
@@ -2197,7 +2251,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 83
+   "rank": 85
   },
   {
    "id": "27e4a93e64",
@@ -2223,7 +2277,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 84
+   "rank": 86
   },
   {
    "id": "c44ee001c4",
@@ -2249,7 +2303,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 85
+   "rank": 87
   },
   {
    "id": "fbe9c3445f",
@@ -2275,7 +2329,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 86
+   "rank": 88
   },
   {
    "id": "340a720559",
@@ -2301,7 +2355,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 87
+   "rank": 89
   },
   {
    "id": "c3d5bb9ffd",
@@ -2327,7 +2381,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 88
+   "rank": 90
   },
   {
    "id": "bb2bee9936",
@@ -2353,7 +2407,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 89
+   "rank": 91
   },
   {
    "id": "27552f795f",
@@ -2379,7 +2433,7 @@
    ],
    "group": 2,
    "group_label": "Vollzeit Deutschland",
-   "rank": 90
+   "rank": 92
   },
   {
    "id": "4298458089",
@@ -2406,7 +2460,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 91
+   "rank": 93
   },
   {
    "id": "25662b1f4a",
@@ -2432,7 +2486,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 92
+   "rank": 94
   },
   {
    "id": "acc3747a53",
@@ -2459,7 +2513,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 93
+   "rank": 95
   },
   {
    "id": "644bf21336",
@@ -2486,7 +2540,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 94
+   "rank": 96
   },
   {
    "id": "5471d7a1ea",
@@ -2513,7 +2567,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 95
+   "rank": 97
   },
   {
    "id": "50a74c8c4e",
@@ -2539,7 +2593,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 96
+   "rank": 98
   },
   {
    "id": "68e32aadc6",
@@ -2565,7 +2619,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 97
+   "rank": 99
   },
   {
    "id": "53d8de5677",
@@ -2591,7 +2645,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 98
+   "rank": 100
   },
   {
    "id": "bd84b97296",
@@ -2617,7 +2671,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 99
+   "rank": 101
   },
   {
    "id": "d9ba0dd0ca",
@@ -2643,7 +2697,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 100
+   "rank": 102
   },
   {
    "id": "98f0ba4ff5",
@@ -2670,7 +2724,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 101
+   "rank": 103
   },
   {
    "id": "bebde291d0",
@@ -2697,7 +2751,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 102
+   "rank": 104
   },
   {
    "id": "c45bcfab28",
@@ -2723,7 +2777,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 103
+   "rank": 105
   },
   {
    "id": "c8aff210ed",
@@ -2749,7 +2803,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 104
+   "rank": 106
   },
   {
    "id": "2cbff6f686",
@@ -2775,7 +2829,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 105
+   "rank": 107
   },
   {
    "id": "c63560fca5",
@@ -2801,7 +2855,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 106
+   "rank": 108
   },
   {
    "id": "555314967a",
@@ -2827,7 +2881,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 107
+   "rank": 109
   },
   {
    "id": "6ef3cae27b",
@@ -2854,7 +2908,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 108
+   "rank": 110
   },
   {
    "id": "47f5bd9738",
@@ -2880,7 +2934,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 109
+   "rank": 111
   },
   {
    "id": "14252241a5",
@@ -2906,7 +2960,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 110
+   "rank": 112
   },
   {
    "id": "9dbd9fdd77",
@@ -2933,7 +2987,34 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 111
+   "rank": 113
+  },
+  {
+   "id": "5304809dea",
+   "title": "Ingénieur logiciel algorithmique de traitement d'images (CDI, R38851)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "",
+   "fit": 4.0,
+   "why": "Bildverarbeitungs-Algorithmik, 0–2 J. Erfahrung, Französisch",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://mbda.gestmax.fr/20257/1/ingenieur-logiciel-algorithmique-de-traitement-d-images-f-h",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 114
   },
   {
    "id": "0ad17e73b6",
@@ -2959,7 +3040,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 112
+   "rank": 115
   },
   {
    "id": "b04596de51",
@@ -2987,7 +3068,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 113
+   "rank": 116
   },
   {
    "id": "612a8bc78a",
@@ -3013,7 +3094,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 114
+   "rank": 117
   },
   {
    "id": "69220f68a9",
@@ -3040,7 +3121,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 115
+   "rank": 118
   },
   {
    "id": "3edbd23e60",
@@ -3066,7 +3147,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 116
+   "rank": 119
   },
   {
    "id": "e3e77df3a4",
@@ -3092,7 +3173,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 117
+   "rank": 120
   },
   {
    "id": "ec9c1221e3",
@@ -3118,7 +3199,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 118
+   "rank": 121
   },
   {
    "id": "5d4255d055",
@@ -3144,7 +3225,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 119
+   "rank": 122
   },
   {
    "id": "0d3f587535",
@@ -3171,7 +3252,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 120
+   "rank": 123
   },
   {
    "id": "f6d9864072",
@@ -3197,7 +3278,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 121
+   "rank": 124
   },
   {
    "id": "8d0a924ce6",
@@ -3223,7 +3304,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 122
+   "rank": 125
   },
   {
    "id": "84ba5a80d8",
@@ -3249,7 +3330,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 123
+   "rank": 126
   },
   {
    "id": "ddd5d9f329",
@@ -3275,7 +3356,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 124
+   "rank": 127
   },
   {
    "id": "8abb2af676",
@@ -3302,7 +3383,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 125
+   "rank": 128
   },
   {
    "id": "ca97eb9089",
@@ -3328,7 +3409,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 126
+   "rank": 129
   },
   {
    "id": "97ef9d5dbc",
@@ -3355,7 +3436,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 127
+   "rank": 130
   },
   {
    "id": "f396c53b14",
@@ -3381,7 +3462,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 128
+   "rank": 131
   },
   {
    "id": "01017f97c8",
@@ -3408,7 +3489,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 129
+   "rank": 132
   },
   {
    "id": "1b9932069d",
@@ -3435,7 +3516,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 130
+   "rank": 133
   },
   {
    "id": "d30224145e",
@@ -3461,7 +3542,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 131
+   "rank": 134
   },
   {
    "id": "80fde76977",
@@ -3488,33 +3569,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 132
-  },
-  {
-   "id": "6d41fd4b14",
-   "title": "Robotics Engineer (Junior/Mid)",
-   "company": "Perciv.AI",
-   "location": "Delft",
-   "region": "Niederlande & Belgien",
-   "type": "Vollzeit",
-   "remote": false,
-   "pay": "",
-   "fit": 3.5,
-   "why": "ROS 2, Docker, Sensor-Integration, Zeitsync, Datenaufnahme; eher Hardware/Field-Ops als ML; EU-Führerschein nötig",
-   "notes": "",
-   "constraints": "Datenaufnahme; eher Hardware/Field-Ops als ML; EU-Führerschein nötig",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
-   "deadline": null,
-   "added": "2026-10-11",
-   "posted": "",
-   "url": "https://perciv.factorialhr.com/job_posting/robotics-engineer-317945",
-   "section": "Perciv.AI (Delft, Radar-Perception-Startup, Partner des TU-Delft-Radar-PhDs) – geprüft 12.10.2026",
-   "sources": [
-    "Perciv.AI (Delft, Radar-Perception-Startup, Partner des TU-Delft-Radar-PhDs) – geprüft 12.10.2026"
-   ],
-   "group": 3,
-   "group_label": "Vollzeit Europa",
-   "rank": 133
+   "rank": 135
   },
   {
    "id": "b2cde7330c",
@@ -3540,7 +3595,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 134
+   "rank": 136
   },
   {
    "id": "581306e024",
@@ -3566,34 +3621,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 135
-  },
-  {
-   "id": "1cf28f029f",
-   "title": "Utvecklingsingenjör AI-driven Autonomi – Mission Autonomy",
-   "company": "Saab",
-   "location": "Linköping / Solna (SE)",
-   "region": "Skandinavien",
-   "type": "Vollzeit",
-   "remote": false,
-   "pay": "",
-   "fit": 3.0,
-   "why": "Schwedisch/Clearance?",
-   "notes": "Frist 18.10.2026; Schwedisch/Sicherheitsüberprüfung wahrscheinlich",
-   "constraints": "",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
-   "deadline": "2026-10-18",
-   "added": "2026-10-15",
-   "posted": "15.10.26",
-   "url": "https://www.saab.com/career/job-opportunities/utvecklingsingenjor-ai-driven-autonomi---mission-autonomy1",
-   "section": "Vollzeit (Junior / ohne Senior-Titel)",
-   "sources": [
-    "Vollzeit (Junior / ohne Senior-Titel)",
-    "Tagesdigest 15.10. – Skandinavien"
-   ],
-   "group": 3,
-   "group_label": "Vollzeit Europa",
-   "rank": 136
+   "rank": 137
   },
   {
    "id": "e9797bd488",
@@ -3620,7 +3648,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 137
+   "rank": 138
   },
   {
    "id": "6a011a6d73",
@@ -3647,7 +3675,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 138
+   "rank": 139
   },
   {
    "id": "ec013eeed5",
@@ -3673,7 +3701,34 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 139
+   "rank": 140
+  },
+  {
+   "id": "69f9be8d0d",
+   "title": "CDI Ingénieur Navigation – Rendez-vous orbital & systèmes autonomes",
+   "company": "ArianeGroup",
+   "location": "Les Mureaux (FR)",
+   "region": "Frankreich",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "Multisensor-Fusion und Zustandsschätzung; Berufseinsteiger ok) · Schwesterstelle Navigation Systèmes Défense, Fit 2",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://arianegroup.wd3.myworkdayjobs.com/EXTERNALALL/job/Les-Mureaux/CDI--Ingnieure---Ingnieur-Navigation---Rendez-vous-orbital---systmes-autonomes_JR-0020182",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 141
   },
   {
    "id": "bab4092c2b",
@@ -3700,7 +3755,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 140
+   "rank": 142
   },
   {
    "id": "e027dc22dd",
@@ -3726,7 +3781,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 141
+   "rank": 143
   },
   {
    "id": "6131d765a5",
@@ -3752,7 +3807,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 142
+   "rank": 144
   },
   {
    "id": "abac1ae910",
@@ -3778,7 +3833,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 143
+   "rank": 145
   },
   {
    "id": "4c5348b298",
@@ -3804,7 +3859,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 144
+   "rank": 146
   },
   {
    "id": "204e11ef13",
@@ -3830,7 +3885,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 145
+   "rank": 147
   },
   {
    "id": "ede5e02a0e",
@@ -3857,7 +3912,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 146
+   "rank": 148
   },
   {
    "id": "ebb861cbcd",
@@ -3884,7 +3939,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 147
+   "rank": 149
   },
   {
    "id": "eca96a271f",
@@ -3910,7 +3965,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 148
+   "rank": 150
   },
   {
    "id": "322abe3879",
@@ -3937,7 +3992,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 149
+   "rank": 151
   },
   {
    "id": "c20491a3b0",
@@ -3963,7 +4018,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 150
+   "rank": 152
   },
   {
    "id": "6cb9513e8d",
@@ -3989,7 +4044,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 151
+   "rank": 153
   },
   {
    "id": "b11911d77e",
@@ -4015,7 +4070,34 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 152
+   "rank": 154
+  },
+  {
+   "id": "d353b7d28e",
+   "title": "Ingénieur informatique robotique d'emballage – traitement d'image – IA",
+   "company": "MAF RODA Agrobotic",
+   "location": "Montauban (FR)",
+   "region": "Frankreich",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "2D/3D-Industrievision in C#/.NET für Agtech; nur LinkedIn",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://www.linkedin.com/jobs/view/4480904716",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 155
   },
   {
    "id": "63206e23fc",
@@ -4042,7 +4124,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 153
+   "rank": 156
   },
   {
    "id": "d1ff504eb7",
@@ -4068,7 +4150,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 154
+   "rank": 157
   },
   {
    "id": "2cb30e08dc",
@@ -4095,7 +4177,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 155
+   "rank": 158
   },
   {
    "id": "4320915643",
@@ -4121,7 +4203,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 156
+   "rank": 159
   },
   {
    "id": "522be3dd0c",
@@ -4147,7 +4229,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 157
+   "rank": 160
   },
   {
    "id": "d6e0492051",
@@ -4173,7 +4255,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 158
+   "rank": 161
   },
   {
    "id": "05eb0eb26e",
@@ -4200,7 +4282,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 159
+   "rank": 162
   },
   {
    "id": "a0503d3088",
@@ -4226,7 +4308,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 160
+   "rank": 163
   },
   {
    "id": "2a9d58a04b",
@@ -4252,7 +4334,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 161
+   "rank": 164
   },
   {
    "id": "9eb515c446",
@@ -4278,7 +4360,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 162
+   "rank": 165
   },
   {
    "id": "846e146067",
@@ -4304,7 +4386,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 163
+   "rank": 166
   },
   {
    "id": "28328d306c",
@@ -4330,7 +4412,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 164
+   "rank": 167
   },
   {
    "id": "d16eb0bd7d",
@@ -4357,7 +4439,33 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 165
+   "rank": 168
+  },
+  {
+   "id": "e10eea6d45",
+   "title": "CDI Ingénieur Navigation – Systèmes Défense",
+   "company": "ArianeGroup",
+   "location": "Les Mureaux (FR)",
+   "region": "Frankreich",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "",
+   "fit": 2.0,
+   "why": "",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://arianegroup.wd3.myworkdayjobs.com/EXTERNALALL/job/Les-Mureaux/Ingnieure---Ingnieur-Navigation---Systmes-Dfense_JR-0019502",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 169
   },
   {
    "id": "005bd372ed",
@@ -4383,7 +4491,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 166
+   "rank": 170
   },
   {
    "id": "1f0caa9069",
@@ -4409,7 +4517,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 167
+   "rank": 171
   },
   {
    "id": "bff0d357fc",
@@ -4435,7 +4543,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 168
+   "rank": 172
   },
   {
    "id": "41cd2d688d",
@@ -4461,7 +4569,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 169
+   "rank": 173
   },
   {
    "id": "c6d35d4071",
@@ -4488,7 +4596,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 170
+   "rank": 174
   },
   {
    "id": "f12046faf4",
@@ -4514,7 +4622,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 171
+   "rank": 175
   },
   {
    "id": "e547be9a7a",
@@ -4540,7 +4648,34 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 172
+   "rank": 176
+  },
+  {
+   "id": "0c56313c23",
+   "title": "Systemingenjör Navigationssystem",
+   "company": "Saab",
+   "location": "Karlskrona (SE)",
+   "region": "Skandinavien",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "",
+   "fit": 2.0,
+   "why": "Systemintegration Marine, Sicherheitsfreigabe/Staatsbürgerschaft ggf. nötig; nur LinkedIn",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://www.linkedin.com/jobs/view/4472054825",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)",
+    "Tagesdigest 19.10. – Skandinavien"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 177
   },
   {
    "id": "f223abcffd",
@@ -4566,7 +4701,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 173
+   "rank": 178
   },
   {
    "id": "e0501ccb15",
@@ -4592,7 +4727,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 174
+   "rank": 179
   },
   {
    "id": "1722250210",
@@ -4618,7 +4753,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 175
+   "rank": 180
   },
   {
    "id": "6b7a0bfae5",
@@ -4644,7 +4779,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 176
+   "rank": 181
   },
   {
    "id": "a4cab6d06a",
@@ -4670,7 +4805,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 177
+   "rank": 182
   },
   {
    "id": "7442db7067",
@@ -4696,7 +4831,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 178
+   "rank": 183
   },
   {
    "id": "cf50de4a0e",
@@ -4722,7 +4857,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 179
+   "rank": 184
+  },
+  {
+   "id": "e67ef7fd08",
+   "title": "Research Intern – Scene Understanding and Planning",
+   "company": "DiDi",
+   "location": "San Jose, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "46 USD/h",
+   "fit": 5.0,
+   "why": "3D-Perception, BEV, Online-Mapping, nuScenes",
+   "notes": "",
+   "constraints": "3–6 Monate, Start flexibel; Einschreibung nötig (MS/PhD)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://job-boards.greenhouse.io/didi/jobs/8299748",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 185
   },
   {
    "id": "0ea7727dce",
@@ -4748,7 +4909,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 180
+   "rank": 186
   },
   {
    "id": "5727c04f92",
@@ -4774,7 +4935,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 181
+   "rank": 187
   },
   {
    "id": "66f9f6305e",
@@ -4800,7 +4961,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 182
+   "rank": 188
   },
   {
    "id": "0bf6a25978",
@@ -4826,7 +4987,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 183
+   "rank": 189
   },
   {
    "id": "ecc389b6b9",
@@ -4852,7 +5013,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 184
+   "rank": 190
   },
   {
    "id": "0e17266b25",
@@ -4878,7 +5039,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 185
+   "rank": 191
   },
   {
    "id": "414c2bc98c",
@@ -4904,7 +5065,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 186
+   "rank": 192
   },
   {
    "id": "b7068a727a",
@@ -4930,7 +5091,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 187
+   "rank": 193
   },
   {
    "id": "1828cbdfa3",
@@ -4956,7 +5117,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 188
+   "rank": 194
   },
   {
    "id": "580afe7da0",
@@ -4982,7 +5143,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 189
+   "rank": 195
   },
   {
    "id": "5af2aac1c1",
@@ -5008,7 +5169,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 190
+   "rank": 196
   },
   {
    "id": "8f7023239d",
@@ -5034,7 +5195,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 191
+   "rank": 197
   },
   {
    "id": "7e37f120bb",
@@ -5060,7 +5221,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 192
+   "rank": 198
   },
   {
    "id": "1c5069df15",
@@ -5086,7 +5247,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 193
+   "rank": 199
   },
   {
    "id": "6e947c85b2",
@@ -5112,7 +5273,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 194
+   "rank": 200
   },
   {
    "id": "08c9014d14",
@@ -5138,7 +5299,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 195
+   "rank": 201
   },
   {
    "id": "d048de2c88",
@@ -5165,7 +5326,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 196
+   "rank": 202
   },
   {
    "id": "ca96784761",
@@ -5191,7 +5352,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 197
+   "rank": 203
   },
   {
    "id": "0e4b67fef1",
@@ -5217,7 +5378,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 198
+   "rank": 204
   },
   {
    "id": "c9ffdcd7e7",
@@ -5244,7 +5405,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 199
+   "rank": 205
   },
   {
    "id": "6c6dfa10fb",
@@ -5270,7 +5431,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 200
+   "rank": 206
   },
   {
    "id": "45c29ccfc0",
@@ -5296,7 +5457,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 201
+   "rank": 207
   },
   {
    "id": "1631025ecb",
@@ -5322,7 +5483,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 202
+   "rank": 208
   },
   {
    "id": "797b2fd4f3",
@@ -5348,7 +5509,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 203
+   "rank": 209
   },
   {
    "id": "151ada59a8",
@@ -5374,7 +5535,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 204
+   "rank": 210
   },
   {
    "id": "50431febdf",
@@ -5400,7 +5561,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 205
+   "rank": 211
+  },
+  {
+   "id": "e4fbb396cc",
+   "title": "Stage – Maquettes numériques 3D à partir de captures photo ou vidéo (Gaussian Splatting)",
+   "company": "CEA List",
+   "location": "Saclay (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "3D-Rekonstruktion aus Fotos/Videos",
+   "notes": "",
+   "constraints": "6 Monate; Einschreibung nötig (Convention de stage), Bac+5, fließend Französisch; PhD-Fortsetzung möglich",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://www.emploi.cea.fr/offre-de-emploi/emploi-stage-creation-de-maquettes-numeriques-3d-a-partir-de-captures-photo-ou-videos-saclay-h-f_41758.aspx",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 212
   },
   {
    "id": "fbfbe4eaa4",
@@ -5426,7 +5614,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 206
+   "rank": 213
   },
   {
    "id": "dbad1c2718",
@@ -5452,7 +5640,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 207
+   "rank": 214
   },
   {
    "id": "c863d5b1f2",
@@ -5478,7 +5666,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 208
+   "rank": 215
   },
   {
    "id": "d30d3b49c2",
@@ -5504,7 +5692,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 209
+   "rank": 216
   },
   {
    "id": "4a3efe5626",
@@ -5530,7 +5718,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 210
+   "rank": 217
   },
   {
    "id": "f4b0828b8b",
@@ -5556,7 +5744,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 211
+   "rank": 218
   },
   {
    "id": "4b15f22acd",
@@ -5582,7 +5770,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 212
+   "rank": 219
   },
   {
    "id": "1779c7dac6",
@@ -5609,7 +5797,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 213
+   "rank": 220
   },
   {
    "id": "1f46d0fdf7",
@@ -5635,7 +5823,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 214
+   "rank": 221
   },
   {
    "id": "79accbf193",
@@ -5661,7 +5849,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 215
+   "rank": 222
+  },
+  {
+   "id": "538300030b",
+   "title": "2027 Summer Intern – SEAM Embodied AI (Masters)",
+   "company": "General Motors",
+   "location": "Sunnyvale, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "11.800 USD/Monat",
+   "fit": 4.0,
+   "why": "Embodied AI, passt zu Robot Learning",
+   "notes": "",
+   "constraints": "Sommer 2027; Einschreibung nötig, Abschluss Dez. 2027–Jun. 2028 verlangt",
+   "visa": "Keine Visa-Aussage; GM-Mapping-Stellen schließen Sponsoring ausdrücklich aus → J-1 unsicher",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 223
   },
   {
    "id": "5c4b5850bc",
@@ -5687,7 +5901,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 216
+   "rank": 224
   },
   {
    "id": "9518b1a219",
@@ -5714,7 +5928,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 217
+   "rank": 225
   },
   {
    "id": "c553ec8e5a",
@@ -5740,7 +5954,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 218
+   "rank": 226
   },
   {
    "id": "1139e78f66",
@@ -5767,7 +5981,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 219
+   "rank": 227
   },
   {
    "id": "e8386185cb",
@@ -5793,7 +6007,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 220
+   "rank": 228
   },
   {
    "id": "0051255f7a",
@@ -5819,7 +6033,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 221
+   "rank": 229
   },
   {
    "id": "e7e11b09a1",
@@ -5845,7 +6059,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 222
+   "rank": 230
   },
   {
    "id": "04fabfd98a",
@@ -5871,7 +6085,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 223
+   "rank": 231
   },
   {
    "id": "4834f3d0f0",
@@ -5898,7 +6112,189 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 224
+   "rank": 232
+  },
+  {
+   "id": "fe3c9d6f20",
+   "title": "Stage Traitement d'images – Détection de collision (R38625)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "Kollisionserkennung in Bildsequenzen, passt zur PoC-/Safety-Arbeit",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20226/1/stage-traitement-d-images-detection-de-collision-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 233
+  },
+  {
+   "id": "cf18e81ad7",
+   "title": "Stage Traitement d'images – Détection et reconnaissance d'objets par IA (R38620)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "Detektion mit zeitlicher Dimension",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20109/1/stage-traitement-d-images-detection-et-reconnaissance-d-objets-par-ia-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 234
+  },
+  {
+   "id": "dd797147d6",
+   "title": "Stage Traitement d'images – Reconnaissance multi-vues par IA (R38618)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "Multi-View-Erkennung",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20111/1/stage-traitement-d-images-reconnaissance-multi-vues-par-intelligence-artificielle-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 235
+  },
+  {
+   "id": "ef49a43228",
+   "title": "Stage – Intégration d'algorithme IA dans une chaîne de pistage de cibles (R39204)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "IR-Zieltracking mit KI",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), Bac+5",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20378/1/stage-traitement-d-images-integration-d-algorithme-ia-dans-une-chaine-de-pistage-de-cibles-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 236
+  },
+  {
+   "id": "3c9089efce",
+   "title": "Stage Logiciel – IA embarquée sur drone (R38996)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "Embedded-Deep-Learning-CV auf Drohne",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20276/1/stage-logiciel-intelligence-artificielle-embarquee-sur-drone-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 237
+  },
+  {
+   "id": "dd584bb43e",
+   "title": "Stage Guidage-Navigation – IA pour l'estimation de trajectoires (R38190)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "Trajektorienschätzung, passt zum Forecasting",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/19966/1/stage-guidage-navigation-ia-pour-l-estimation-de-trajectoires-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 238
+  },
+  {
+   "id": "7439a1cd99",
+   "title": "Stage – Recalage d'images multimodales par deep learning (R38403)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "multimodale Bildregistrierung",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20084/1/stage-traitement-d-images-recalage-d-images-multimodales-par-deep-learning-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 239
   },
   {
    "id": "975eab1098",
@@ -5924,7 +6320,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 225
+   "rank": 240
   },
   {
    "id": "4eb79aa98c",
@@ -5951,7 +6347,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 226
+   "rank": 241
   },
   {
    "id": "6893326bce",
@@ -5977,7 +6373,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 227
+   "rank": 242
   },
   {
    "id": "2c5021ba9e",
@@ -6003,7 +6399,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 228
+   "rank": 243
   },
   {
    "id": "1d769415bb",
@@ -6029,7 +6425,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 229
+   "rank": 244
   },
   {
    "id": "de573e1771",
@@ -6055,7 +6451,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 230
+   "rank": 245
   },
   {
    "id": "d44a80efec",
@@ -6081,7 +6477,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 231
+   "rank": 246
   },
   {
    "id": "be55a8ad50",
@@ -6107,7 +6503,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 232
+   "rank": 247
   },
   {
    "id": "0fa0851ea8",
@@ -6133,7 +6529,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 233
+   "rank": 248
   },
   {
    "id": "f9931da723",
@@ -6159,7 +6555,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 234
+   "rank": 249
   },
   {
    "id": "6d24c9f816",
@@ -6185,7 +6581,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 235
+   "rank": 250
   },
   {
    "id": "85fb59a6f5",
@@ -6211,7 +6607,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 236
+   "rank": 251
   },
   {
    "id": "45c19164d4",
@@ -6237,7 +6633,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 237
+   "rank": 252
   },
   {
    "id": "fee5752989",
@@ -6263,7 +6659,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 238
+   "rank": 253
   },
   {
    "id": "74f1b538e2",
@@ -6289,7 +6685,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 239
+   "rank": 254
   },
   {
    "id": "a92a70ce75",
@@ -6315,7 +6711,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 240
+   "rank": 255
   },
   {
    "id": "07f3a36037",
@@ -6342,7 +6738,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 241
+   "rank": 256
+  },
+  {
+   "id": "8684e4a210",
+   "title": "Stage IA & Vision par ordinateur",
+   "company": "Vnexia",
+   "location": "Paris (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 4.0,
+   "why": "YOLO, Multi-Object-Tracking, Kamera-LiDAR-Fusion, Jetson",
+   "notes": "",
+   "constraints": "6 Monate, Jan./Feb. 2027; Einschreibung nötig (Convention de stage)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4478241781",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 257
   },
   {
    "id": "8be53d3019",
@@ -6368,7 +6791,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 242
+   "rank": 258
   },
   {
    "id": "5e0fd0a047",
@@ -6394,7 +6817,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 243
+   "rank": 259
   },
   {
    "id": "a71c55f31c",
@@ -6420,7 +6843,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 244
+   "rank": 260
   },
   {
    "id": "41308c77e4",
@@ -6446,7 +6869,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 245
+   "rank": 261
   },
   {
    "id": "51cf6861a1",
@@ -6472,7 +6895,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 246
+   "rank": 262
   },
   {
    "id": "bfc2c2d980",
@@ -6499,7 +6922,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 247
+   "rank": 263
   },
   {
    "id": "a3d4a06937",
@@ -6526,7 +6949,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 248
+   "rank": 264
   },
   {
    "id": "d7b4053c4b",
@@ -6552,7 +6975,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 249
+   "rank": 265
   },
   {
    "id": "567a71abb4",
@@ -6578,7 +7001,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 250
+   "rank": 266
   },
   {
    "id": "763384d1f4",
@@ -6604,7 +7027,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 251
+   "rank": 267
   },
   {
    "id": "6076f7e161",
@@ -6630,7 +7053,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 252
+   "rank": 268
   },
   {
    "id": "13382a3983",
@@ -6656,7 +7079,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 253
+   "rank": 269
   },
   {
    "id": "7793fb6d2d",
@@ -6682,7 +7105,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 254
+   "rank": 270
   },
   {
    "id": "a90cb55c4c",
@@ -6708,7 +7131,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 255
+   "rank": 271
   },
   {
    "id": "c159d5c5cb",
@@ -6734,7 +7157,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 256
+   "rank": 272
   },
   {
    "id": "d8239b6f2a",
@@ -6760,7 +7183,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 257
+   "rank": 273
   },
   {
    "id": "5e4ca51e76",
@@ -6786,7 +7209,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 258
+   "rank": 274
   },
   {
    "id": "ab21dd54d9",
@@ -6812,7 +7235,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 259
+   "rank": 275
   },
   {
    "id": "6fe62357ed",
@@ -6838,7 +7261,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 260
+   "rank": 276
   },
   {
    "id": "ed4b0fabd5",
@@ -6864,7 +7287,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 261
+   "rank": 277
   },
   {
    "id": "5ff58ae699",
@@ -6890,7 +7313,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 262
+   "rank": 278
   },
   {
    "id": "e30381ce29",
@@ -6916,7 +7339,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 263
+   "rank": 279
   },
   {
    "id": "e63bae07e9",
@@ -6942,7 +7365,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 264
+   "rank": 280
   },
   {
    "id": "5c532b2498",
@@ -6968,7 +7391,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 265
+   "rank": 281
   },
   {
    "id": "9cc27d6dec",
@@ -6995,7 +7418,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 266
+   "rank": 282
   },
   {
    "id": "ed306a1ddd",
@@ -7021,7 +7444,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 267
+   "rank": 283
   },
   {
    "id": "daec43ca1e",
@@ -7047,7 +7470,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 268
+   "rank": 284
   },
   {
    "id": "c69270db3c",
@@ -7073,7 +7496,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 269
+   "rank": 285
+  },
+  {
+   "id": "d38625f0b2",
+   "title": "STAGE – Navigation methods for orbital rendezvous",
+   "company": "ArianeGroup",
+   "location": "Les Mureaux (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "Navigation/Zustandsschätzung im All",
+   "notes": "",
+   "constraints": "Einschreibung nötig (Convention de stage)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://arianegroup.wd3.myworkdayjobs.com/EXTERNALALL/job/Les-Mureaux/STAGE---Ingnieure---Ingnieur-Dveloppement-et-valuation-de-mthodes-de-navigation-pour-le-rendez-vous-orbital_JR-2026599",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 286
   },
   {
    "id": "4d31e718da",
@@ -7100,7 +7550,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 270
+   "rank": 287
   },
   {
    "id": "ae4009d4d0",
@@ -7127,7 +7577,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 271
+   "rank": 288
   },
   {
    "id": "b6020eb158",
@@ -7153,7 +7603,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 272
+   "rank": 289
   },
   {
    "id": "e0d520b3a5",
@@ -7179,7 +7629,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 273
+   "rank": 290
   },
   {
    "id": "08a704e5d8",
@@ -7205,7 +7655,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 274
+   "rank": 291
   },
   {
    "id": "5574465150",
@@ -7231,7 +7681,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 275
+   "rank": 292
   },
   {
    "id": "004514a754",
@@ -7257,7 +7707,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 276
+   "rank": 293
   },
   {
    "id": "b515f23f96",
@@ -7283,7 +7733,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 277
+   "rank": 294
+  },
+  {
+   "id": "ee2f6c8bd5",
+   "title": "Stage – Estimation de la hauteur d'eau à partir d'images de télésurveillance",
+   "company": "CS Group (Sopra Steria)",
+   "location": "Toulouse (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "Deep Learning/PyTorch auf Überwachungsbildern; Tiefenschätzung/Gaussian Splatting als Plus",
+   "notes": "",
+   "constraints": "6 Monate, Stage de fin d'études; Einschreibung nötig (Convention de stage)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://careers.soprasteria.fr/job/stage-ingenieur-e-metier-estimation-de-la-hauteur-d-eau-a-partir-d-images-de-telesurveillance-spatia-in-toulouse-france-jid-10073",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 295
   },
   {
    "id": "6d6704603c",
@@ -7309,7 +7786,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 278
+   "rank": 296
   },
   {
    "id": "1774671d60",
@@ -7335,7 +7812,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 279
+   "rank": 297
   },
   {
    "id": "87277589c9",
@@ -7361,7 +7838,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 280
+   "rank": 298
   },
   {
    "id": "de5fb8496a",
@@ -7387,7 +7864,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 281
+   "rank": 299
+  },
+  {
+   "id": "c3c07697eb",
+   "title": "Stage – Ingénieur Traitement d'images / Vision par ordinateur (Ref. 2026-27755)",
+   "company": "Framatome",
+   "location": "Ugine (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "12.600–17.400 €/Jahr",
+   "fit": 3.0,
+   "why": "Videoüberwachung eines Schmelzprozesses: OpenCV, Segmentierung, Tracking",
+   "notes": "",
+   "constraints": "6 Monate; Einschreibung nötig (Convention de stage), Bac+4/5",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://www.framatome.com/fr/candidats/offres-emplois/stage-ingenieur-traitement-dimages-vision-par-ordinateur-f-h-ref-2026-27755/",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 300
   },
   {
    "id": "f4f52d88ba",
@@ -7414,7 +7918,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 282
+   "rank": 301
   },
   {
    "id": "e63a6bf69e",
@@ -7440,7 +7944,85 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 283
+   "rank": 302
+  },
+  {
+   "id": "fdc828d22c",
+   "title": "2027 Summer Intern – Data Scaling, Embodied AI (Masters)",
+   "company": "General Motors",
+   "location": "Sunnyvale, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "11.800 USD/Monat",
+   "fit": 3.0,
+   "why": "Datenpipelines für Embodied AI",
+   "notes": "",
+   "constraints": "Sommer 2027; Einschreibung nötig (Master)",
+   "visa": "Keine Visa-Aussage; GM-Mapping-Stellen schließen Sponsoring ausdrücklich aus → J-1 unsicher",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 303
+  },
+  {
+   "id": "a0222d1427",
+   "title": "2027 Summer Intern – AI/ML Engineer, Autonomous Vehicle Simulation",
+   "company": "General Motors",
+   "location": "Sunnyvale, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "8.100–9.600 USD/Monat",
+   "fit": 3.0,
+   "why": "ML für AV-Simulation",
+   "notes": "",
+   "constraints": "Sommer 2027; Einschreibung nötig",
+   "visa": "Keine Visa-Aussage; GM-Mapping-Stellen schließen Sponsoring ausdrücklich aus → J-1 unsicher",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 304
+  },
+  {
+   "id": "fa52bf0d14",
+   "title": "2027 Summer Intern – ML Intern, AV Software Validation (Master's)",
+   "company": "General Motors",
+   "location": "Sunnyvale, CA (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "8.700–10.300 USD/Monat",
+   "fit": 3.0,
+   "why": "ML-gestützte AV-Validierung",
+   "notes": "",
+   "constraints": "Sommer 2027; Einschreibung nötig, Abschluss Dez. 2027–Aug. 2028 verlangt",
+   "visa": "Keine Visa-Aussage; GM-Mapping-Stellen schließen Sponsoring ausdrücklich aus → J-1 unsicher",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 305
   },
   {
    "id": "0a83e07bf9",
@@ -7466,7 +8048,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 284
+   "rank": 306
   },
   {
    "id": "95df0c4363",
@@ -7492,7 +8074,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 285
+   "rank": 307
   },
   {
    "id": "393daff685",
@@ -7518,7 +8100,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 286
+   "rank": 308
   },
   {
    "id": "dd6b754f16",
@@ -7544,7 +8126,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 287
+   "rank": 309
   },
   {
    "id": "42460eda8d",
@@ -7571,7 +8153,111 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 288
+   "rank": 310
+  },
+  {
+   "id": "c21dbba922",
+   "title": "Stage – Segmentation de cibles aériennes par IA (R38725)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "Segmentierung von Luftzielen",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20197/1/stage-traitement-d-images-segmentation-de-cibles-aeriennes-par-intelligence-artificielle-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 311
+  },
+  {
+   "id": "fcf2df1e82",
+   "title": "Stage – Apprentissage profond pour la détection et reconnaissance de cibles (R38377)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "Ziel-Detektion, u. a. SAR",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20009/1/stage-traitements-d-images-apprentissage-profond-pour-la-detection-et-reconnaissance-de-cibles-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 312
+  },
+  {
+   "id": "56bbd72a5c",
+   "title": "Stage – Algorithme d'IA pour le guidage infrarouge (R38449)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "IR-Lenkung mit KI",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20042/1/stage-traitement-d-images-developpement-d-un-algorithme-d-ia-pour-le-guidage-infrarouge-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 313
+  },
+  {
+   "id": "f7064e001f",
+   "title": "Stage Navigation – Fusion multi-IMU (R38644)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "IMU-Fusion, kein CV",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), letztes Ingenieursjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20210/1/stage-navigation-fusion-multi-umi-pour-l-amelioration-de-la-navigation-d-un-engin-volant-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 314
   },
   {
    "id": "171198f991",
@@ -7597,7 +8283,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 289
+   "rank": 315
   },
   {
    "id": "832ce187b8",
@@ -7623,7 +8309,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 290
+   "rank": 316
   },
   {
    "id": "735958829a",
@@ -7649,7 +8335,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 291
+   "rank": 317
   },
   {
    "id": "ba84cfd5f7",
@@ -7675,7 +8361,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 292
+   "rank": 318
   },
   {
    "id": "c3594d84df",
@@ -7701,7 +8387,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 293
+   "rank": 319
   },
   {
    "id": "2189588bc7",
@@ -7727,7 +8413,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 294
+   "rank": 320
   },
   {
    "id": "93678ac965",
@@ -7753,7 +8439,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 295
+   "rank": 321
   },
   {
    "id": "5d27613f43",
@@ -7780,7 +8466,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 296
+   "rank": 322
+  },
+  {
+   "id": "2bc701d922",
+   "title": "Stage ingénieur – Détection embarquée dans l'habitacle, collecte et fusion de données multi-capteurs",
+   "company": "NXP",
+   "location": "Toulouse (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "In-Cabin-Sensing, Multisensor-Fusion",
+   "notes": "",
+   "constraints": "6 Monate; Einschreibung nötig (Convention de stage), letztes Studienjahr",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Toulouse/Stage-ingnieur---Dtection-embarque-dans-l-habitacle---Collecte-et-fusion-de-donnes-multi-capteurs--F-H-_R-10066952",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 323
   },
   {
    "id": "c67551a6a7",
@@ -7806,7 +8519,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 297
+   "rank": 324
   },
   {
    "id": "258b1d7b42",
@@ -7832,7 +8545,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 298
+   "rank": 325
   },
   {
    "id": "6018ef0e86",
@@ -7859,7 +8572,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 299
+   "rank": 326
   },
   {
    "id": "ccb6b30c57",
@@ -7885,7 +8598,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 300
+   "rank": 327
   },
   {
    "id": "629454473c",
@@ -7912,7 +8625,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 301
+   "rank": 328
   },
   {
    "id": "6fba12445c",
@@ -7938,7 +8651,60 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 302
+   "rank": 329
+  },
+  {
+   "id": "ff14a7ff36",
+   "title": "Stage Architecture Système End-to-End – Transition ADAS → conduite automatisée L3",
+   "company": "Stellantis",
+   "location": "Poissy (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 3.0,
+   "why": "Systemarchitektur L2+→L3, kein CV",
+   "notes": "",
+   "constraints": "6 Monate; Einschreibung nötig (Convention de stage), Bac+5",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://jobs.groupe-psa.com/offre-de-emploi/emploi-stage-architecture-systeme-end-to-end-h-f-transition-des-systemes-adas-vers-la-conduite-automatisee-l3_20167.aspx",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 330
+  },
+  {
+   "id": "02c8c4e635",
+   "title": "Graduate Co-op – Robotics Software Engineer",
+   "company": "Stokes Robotics",
+   "location": "Carl Junction, MO (USA)",
+   "region": "USA",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "ROS 2, C++/Python; US-Führerschein und eigenes Auto nötig",
+   "notes": "",
+   "constraints": "Jan.–Mai 2027; Einschreibung nötig (Graduate)",
+   "visa": "Keine Visa-Aussage → J-1",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4478459875",
+   "section": "Praktika USA (neu 18.10.2026)",
+   "sources": [
+    "Praktika USA (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 331
   },
   {
    "id": "652eadac5a",
@@ -7964,7 +8730,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 303
+   "rank": 332
+  },
+  {
+   "id": "feee9f4539",
+   "title": "Internship 2027 Sensor Fusion (Innenraum-Radar + Kamera)",
+   "company": "Texas Instruments",
+   "location": "Issy-les-Moulineaux (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "eher EE/HW, Einstieg ins FAE-/Vertriebsprogramm möglich",
+   "notes": "",
+   "constraints": "2027; Einschreibung nötig (Convention de stage)",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4479372820",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)",
+    "Tagesdigest 19.10. – Frankreich & Paris"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 333
   },
   {
    "id": "61f0fc8f49",
@@ -7990,7 +8783,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 304
+   "rank": 334
   },
   {
    "id": "d062916296",
@@ -8016,7 +8809,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 305
+   "rank": 335
   },
   {
    "id": "3ae5bec6c5",
@@ -8042,7 +8835,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 306
+   "rank": 336
   },
   {
    "id": "96cae48427",
@@ -8068,7 +8861,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 307
+   "rank": 337
   },
   {
    "id": "51b80d0813",
@@ -8094,7 +8887,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 308
+   "rank": 338
   },
   {
    "id": "71622f3dd2",
@@ -8120,7 +8913,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 309
+   "rank": 339
   },
   {
    "id": "23c1144f9b",
@@ -8146,7 +8939,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 310
+   "rank": 340
   },
   {
    "id": "9889ebff64",
@@ -8172,7 +8965,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 311
+   "rank": 341
   },
   {
    "id": "cc33c023e9",
@@ -8198,7 +8991,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 312
+   "rank": 342
   },
   {
    "id": "1d0bd9722a",
@@ -8224,7 +9017,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 313
+   "rank": 343
   },
   {
    "id": "6d8cb1786c",
@@ -8251,7 +9044,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 314
+   "rank": 344
   },
   {
    "id": "4644eeb73d",
@@ -8277,7 +9070,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 315
+   "rank": 345
   },
   {
    "id": "34795e6d31",
@@ -8303,7 +9096,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 316
+   "rank": 346
   },
   {
    "id": "22f09541f5",
@@ -8329,7 +9122,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 317
+   "rank": 347
   },
   {
    "id": "1c0b5874f4",
@@ -8355,7 +9148,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 318
+   "rank": 348
   },
   {
    "id": "43333076c3",
@@ -8381,7 +9174,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 319
+   "rank": 349
   },
   {
    "id": "254a297034",
@@ -8407,7 +9200,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 320
+   "rank": 350
   },
   {
    "id": "e44b62b328",
@@ -8433,7 +9226,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 321
+   "rank": 351
   },
   {
    "id": "41a583c997",
@@ -8459,7 +9252,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 322
+   "rank": 352
   },
   {
    "id": "4ab03810d3",
@@ -8486,7 +9279,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 323
+   "rank": 353
+  },
+  {
+   "id": "5f315fe9aa",
+   "title": "Internship Analyst Automated Driving",
+   "company": "ARRK Engineering",
+   "location": "Madrid (ES)",
+   "region": "Rest-EU",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.0,
+   "why": "Studium nötig",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://arrkeurope.onlyfy.jobs/candidate/widget/z8xcghls/job/om8z76up8q12jz0jau8xjfknmdwbn0b",
+   "section": "Praktika EU / UK / Schweiz",
+   "sources": [
+    "Praktika EU / UK / Schweiz",
+    "Tagesdigest 19.10. – EU sonst"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 354
   },
   {
    "id": "d46499cd92",
@@ -8512,7 +9332,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 324
+   "rank": 355
   },
   {
    "id": "f2b39b0ddd",
@@ -8538,7 +9358,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 325
+   "rank": 356
   },
   {
    "id": "a54a9b8e8f",
@@ -8564,7 +9384,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 326
+   "rank": 357
   },
   {
    "id": "b529d7cae4",
@@ -8590,7 +9410,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 327
+   "rank": 358
   },
   {
    "id": "354b71404b",
@@ -8616,7 +9436,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 328
+   "rank": 359
   },
   {
    "id": "05f96e0fb8",
@@ -8642,7 +9462,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 329
+   "rank": 360
   },
   {
    "id": "671a3f5dcc",
@@ -8668,7 +9488,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 330
+   "rank": 361
   },
   {
    "id": "edc94e35fa",
@@ -8694,7 +9514,33 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 331
+   "rank": 362
+  },
+  {
+   "id": "3be9b5ab0b",
+   "title": "Stage – Optimisation de base de données pour la détection d'objets (R38619)",
+   "company": "MBDA France (Rüstung)",
+   "location": "Le Plessis-Robinson (FR)",
+   "region": "Frankreich",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "Gratification",
+   "fit": 2.0,
+   "why": "Datensatz-Werkzeug",
+   "notes": "",
+   "constraints": "6 Monate, ab Feb. 2027; Einschreibung nötig (Convention de stage), Bac+5",
+   "visa": "EU-Freizügigkeit",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "",
+   "url": "https://mbda.gestmax.fr/20110/1/stage-traitement-d-images-optimisation-de-base-de-donnees-pour-la-detection-d-objets-par-ia-f-h",
+   "section": "Praktika Paris & Frankreich (neu 18.10.2026)",
+   "sources": [
+    "Praktika Paris & Frankreich (neu 18.10.2026)"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 363
   },
   {
    "id": "c0c978949f",
@@ -8720,7 +9566,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 332
+   "rank": 364
   },
   {
    "id": "2373a444f8",
@@ -8746,7 +9592,34 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 333
+   "rank": 365
+  },
+  {
+   "id": "70d8b916f3",
+   "title": "Internship – Robotics (mind. 6 Monate Vollzeit)",
+   "company": "NXP",
+   "location": "Eindhoven (NL)",
+   "region": "Niederlande & Belgien",
+   "type": "Praktikum",
+   "remote": false,
+   "pay": "",
+   "fit": 2.0,
+   "why": "Elektronik/RF-lastig, mind. 6 Monate Vollzeit; Einschreibung nötig",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-19",
+   "posted": "Okt. 2026",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364",
+   "section": "Praktika EU / UK / Schweiz",
+   "sources": [
+    "Praktika EU / UK / Schweiz",
+    "Tagesdigest 19.10. – Niederlande & Belgien"
+   ],
+   "group": 4,
+   "group_label": "Praktikum",
+   "rank": 366
   },
   {
    "id": "f55bb7bd63",
@@ -8772,7 +9645,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 334
+   "rank": 367
   },
   {
    "id": "b80b7c21b8",
@@ -8798,7 +9671,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 335
+   "rank": 368
   },
   {
    "id": "d55b7a3d8c",
@@ -8824,7 +9697,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 336
+   "rank": 369
   },
   {
    "id": "1175045e69",
@@ -8850,7 +9723,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 337
+   "rank": 370
   },
   {
    "id": "f99f1e6da3",
@@ -8876,7 +9749,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 338
+   "rank": 371
   },
   {
    "id": "5e57065721",
@@ -8902,7 +9775,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 339
+   "rank": 372
   },
   {
    "id": "ba0383cac8",
@@ -8928,7 +9801,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 340
+   "rank": 373
   },
   {
    "id": "31322884d8",
@@ -8954,7 +9827,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 341
+   "rank": 374
   },
   {
    "id": "b93d0c52db",
@@ -8980,7 +9853,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 342
+   "rank": 375
   },
   {
    "id": "ff9f63bb57",
@@ -9006,33 +9879,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 343
-  },
-  {
-   "id": "eb96fe322e",
-   "title": "PhD Foundation Models for Automotive Imaging Radar",
-   "company": "TU Delft, Intelligent Vehicles (Gavrila/Kooij)",
-   "location": "Delft",
-   "region": "Niederlande & Belgien",
-   "type": "PhD/WiMi",
-   "remote": false,
-   "pay": "",
-   "fit": 5.0,
-   "why": "3D-Perception, Multimodal-/LiDAR-Foundation-Models, Forschungsfahrzeuge, Partner Perciv.AI/NXP",
-   "notes": "",
-   "constraints": "€3.204–4.051 brutto/Monat + 8 % Urlaubsgeld + 8,3 % Jahresendzahlung",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
-   "deadline": "2026-10-18",
-   "added": "2026-10-11",
-   "posted": "",
-   "url": "https://careers.tudelft.nl/job/Delft-PhD-Position-Foundation-Models-for-Automotive-Imaging-Radar-2628-CD/1373228857/",
-   "section": "Niederlande",
-   "sources": [
-    "Niederlande"
-   ],
-   "group": 5,
-   "group_label": "PhD / WiMi",
-   "rank": 344
+   "rank": 376
   },
   {
    "id": "c50a9845b1",
@@ -9058,7 +9905,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 345
+   "rank": 377
   },
   {
    "id": "00883d60e2",
@@ -9085,7 +9932,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 346
+   "rank": 378
   },
   {
    "id": "d529404a77",
@@ -9111,7 +9958,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 347
+   "rank": 379
   },
   {
    "id": "26e5debb6d",
@@ -9138,7 +9985,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 348
+   "rank": 380
   },
   {
    "id": "1cd433ae26",
@@ -9164,7 +10011,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 349
+   "rank": 381
   },
   {
    "id": "06b395e992",
@@ -9191,7 +10038,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 350
+   "rank": 382
   },
   {
    "id": "d8d518d379",
@@ -9218,7 +10065,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 351
+   "rank": 383
   },
   {
    "id": "7dfe453549",
@@ -9245,7 +10092,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 352
+   "rank": 384
   },
   {
    "id": "b2ad488e84",
@@ -9272,7 +10119,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 353
+   "rank": 385
   },
   {
    "id": "d3fdeed94f",
@@ -9298,7 +10145,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 354
+   "rank": 386
   },
   {
    "id": "65e1b1bb6e",
@@ -9325,7 +10172,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 355
+   "rank": 387
   },
   {
    "id": "5cf1c14676",
@@ -9352,7 +10199,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 356
+   "rank": 388
   },
   {
    "id": "5cad72d914",
@@ -9379,34 +10226,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 357
-  },
-  {
-   "id": "56c267f791",
-   "title": "PhD Scholarship AI for Forest Robotics",
-   "company": "NIBIO/NMBU (306953)",
-   "location": "Ås",
-   "region": "Skandinavien",
-   "type": "PhD/WiMi",
-   "remote": false,
-   "pay": "NOK 555–635k/J.",
-   "fit": 4.0,
-   "why": "LiDAR-/Kamera-Segmentierung, Place Recognition, Lokalisierung, Traversability (neu 16.10.2026",
-   "notes": "",
-   "constraints": "NOK 555–635k/J.; 3 J.",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
-   "deadline": "2026-10-18",
-   "added": "2026-10-16",
-   "posted": "",
-   "url": "https://www.jobbnorge.no/en/available-jobs/job/306953/phd-scholarship-ai-for-forest-robotics",
-   "section": "Norwegen / Finnland",
-   "sources": [
-    "Norwegen / Finnland",
-    "Tagesdigest 16.10. – Skandinavien"
-   ],
-   "group": 5,
-   "group_label": "PhD / WiMi",
-   "rank": 358
+   "rank": 389
   },
   {
    "id": "e9a7709bce",
@@ -9433,7 +10253,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 359
+   "rank": 390
   },
   {
    "id": "fc0b80f9dc",
@@ -9459,7 +10279,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 360
+   "rank": 391
   },
   {
    "id": "ae3e718035",
@@ -9486,7 +10306,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 361
+   "rank": 392
   },
   {
    "id": "1b36b59533",
@@ -9512,7 +10332,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 362
+   "rank": 393
   },
   {
    "id": "6ece261e61",
@@ -9538,7 +10358,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 363
+   "rank": 394
   },
   {
    "id": "86aa65ca93",
@@ -9564,7 +10384,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 364
+   "rank": 395
   },
   {
    "id": "90d80ca930",
@@ -9590,7 +10410,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 365
+   "rank": 396
   },
   {
    "id": "389ba579d6",
@@ -9617,7 +10437,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 366
+   "rank": 397
   },
   {
    "id": "e9e9d7acaa",
@@ -9643,7 +10463,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 367
+   "rank": 398
   },
   {
    "id": "a759aacca8",
@@ -9669,7 +10489,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 368
+   "rank": 399
   },
   {
    "id": "d4ebf09b15",
@@ -9696,7 +10516,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 369
+   "rank": 400
   },
   {
    "id": "5f65784ae8",
@@ -9722,7 +10542,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 370
+   "rank": 401
   },
   {
    "id": "f40c087910",
@@ -9749,7 +10569,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 371
+   "rank": 402
   },
   {
    "id": "b71461cb3e",
@@ -9776,7 +10596,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 372
+   "rank": 403
   },
   {
    "id": "6f02259f3f",
@@ -9802,7 +10622,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 373
+   "rank": 404
   },
   {
    "id": "fe099cec99",
@@ -9828,7 +10648,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 374
+   "rank": 405
   },
   {
    "id": "a1efc9b4bc",
@@ -9854,7 +10674,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 375
+   "rank": 406
   },
   {
    "id": "84ca54e29d",
@@ -9881,7 +10701,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 376
+   "rank": 407
   },
   {
    "id": "8bb03e0183",
@@ -9907,7 +10727,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 377
+   "rank": 408
   },
   {
    "id": "51e4629fee",
@@ -9933,7 +10753,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 378
+   "rank": 409
   },
   {
    "id": "14325b3463",
@@ -9960,7 +10780,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 379
+   "rank": 410
   },
   {
    "id": "99a2bbb002",
@@ -9987,7 +10807,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 380
+   "rank": 411
   },
   {
    "id": "c2c5a74fe0",
@@ -10014,7 +10834,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 381
+   "rank": 412
   },
   {
    "id": "e3232def18",
@@ -10041,7 +10861,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 382
+   "rank": 413
   },
   {
    "id": "30cc40b82a",
@@ -10068,7 +10888,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 383
+   "rank": 414
   },
   {
    "id": "2b22745a1d",
@@ -10094,7 +10914,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 384
+   "rank": 415
   },
   {
    "id": "32308d9beb",
@@ -10120,7 +10940,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 385
+   "rank": 416
   },
   {
    "id": "5014a15562",
@@ -10146,7 +10966,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 386
+   "rank": 417
   },
   {
    "id": "79d23b0ba3",
@@ -10172,7 +10992,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 387
+   "rank": 418
   },
   {
    "id": "6c611f0de5",
@@ -10199,7 +11019,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 388
+   "rank": 419
   },
   {
    "id": "5e90cd280c",
@@ -10225,33 +11045,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 389
-  },
-  {
-   "id": "77cb6405fe",
-   "title": "PhD Wireless-Native Physical AI",
-   "company": "Aalborg University",
-   "location": "Aalborg",
-   "region": "Skandinavien",
-   "type": "PhD/WiMi",
-   "remote": false,
-   "pay": "",
-   "fit": 2.5,
-   "why": "neu 15.10.2026",
-   "notes": "",
-   "constraints": "",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
-   "deadline": "2026-10-18",
-   "added": "2026-10-15",
-   "posted": "",
-   "url": "https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/970314",
-   "section": "Dänemark",
-   "sources": [
-    "Dänemark"
-   ],
-   "group": 5,
-   "group_label": "PhD / WiMi",
-   "rank": 390
+   "rank": 420
   },
   {
    "id": "bd0266818e",
@@ -10277,33 +11071,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 391
-  },
-  {
-   "id": "707a39a841",
-   "title": "Research Engineer in Robotics, Perception and Learning – eher Prototyping/Lab (3D-Druck, Experimente) als ML-Perception",
-   "company": "KTH RPL (Danica Kragic)",
-   "location": "Stockholm",
-   "region": "Skandinavien",
-   "type": "PhD/WiMi",
-   "remote": false,
-   "pay": "Monthly salary, befristet",
-   "fit": 2.0,
-   "why": "Hands-on RPL-Lab, wenig DL-Kern",
-   "notes": "",
-   "constraints": "",
-   "visa": "EU-Freizügigkeit – kein Visum nötig",
-   "deadline": "2026-10-18",
-   "added": "2026-10-14",
-   "posted": "",
-   "url": "https://www.kth.se/lediga-jobb/976498?l=en",
-   "section": "3) PhD / WiMi (nach Frist sortiert)",
-   "sources": [
-    "3) PhD / WiMi (nach Frist sortiert)"
-   ],
-   "group": 5,
-   "group_label": "PhD / WiMi",
-   "rank": 392
+   "rank": 421
   },
   {
    "id": "362883d310",
@@ -10329,7 +11097,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 393
+   "rank": 422
   },
   {
    "id": "0f72fbeaa6",
@@ -10355,7 +11123,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 394
+   "rank": 423
   },
   {
    "id": "d96644af0e",
@@ -10381,7 +11149,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 395
+   "rank": 424
   },
   {
    "id": "aa6835fca9",
@@ -10408,7 +11176,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 396
+   "rank": 425
   },
   {
    "id": "26608a190f",
@@ -10434,7 +11202,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 397
+   "rank": 426
   },
   {
    "id": "370481d0b3",
@@ -10460,7 +11228,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 398
+   "rank": 427
   },
   {
    "id": "f493d179ed",
@@ -10487,7 +11255,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 399
+   "rank": 428
   },
   {
    "id": "945ff68c74",
@@ -10513,7 +11281,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 400
+   "rank": 429
   },
   {
    "id": "a3a6ae0e4e",
@@ -10539,7 +11307,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 401
+   "rank": 430
   },
   {
    "id": "d9e9f59c65",
@@ -10566,7 +11334,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 402
+   "rank": 431
   },
   {
    "id": "f8a4dc0fb8",
@@ -10592,7 +11360,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 403
+   "rank": 432
   }
  ]
 }
