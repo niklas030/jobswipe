@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-20T08:59+02:00",
+  "updated": "2026-10-20T09:01+02:00",
   "count": 462,
   "source_doc": "Jobvergleich (Google Doc)",
   "raw_doc_entries": 546
@@ -2884,6 +2884,32 @@
    "rank": 109
   },
   {
+   "id": "e62bd1e2f2",
+   "title": "Software Engineer, Computer Vision",
+   "company": "CircuitHub",
+   "location": "London / Cambridge (UK), remote möglich",
+   "region": "UK",
+   "type": "Vollzeit",
+   "remote": true,
+   "pay": "",
+   "fit": 4.0,
+   "why": "",
+   "notes": "Produktions-CV für Bestückungsroboter: optische Inspektion, Pick-Erkennung, Kalibrierung; „shipped CV into production“; £80–125k + Equity",
+   "constraints": "",
+   "visa": "UK: Visum nötig (Skilled Worker / Praktikum ggf. GAE) – Sponsoring klären",
+   "deadline": null,
+   "added": "2026-10-20",
+   "posted": "19.10.26",
+   "url": "https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 110
+  },
+  {
    "id": "98f0ba4ff5",
    "title": "Computer Vision Engineer – Tracker",
    "company": "Harmattan AI",
@@ -2908,7 +2934,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 110
+   "rank": 111
   },
   {
    "id": "bebde291d0",
@@ -2935,7 +2961,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 111
+   "rank": 112
   },
   {
    "id": "c45bcfab28",
@@ -2961,7 +2987,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 112
+   "rank": 113
   },
   {
    "id": "c8aff210ed",
@@ -2987,7 +3013,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 113
+   "rank": 114
   },
   {
    "id": "2cbff6f686",
@@ -3013,7 +3039,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 114
+   "rank": 115
   },
   {
    "id": "3c30e954bb",
@@ -3039,7 +3065,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 115
+   "rank": 116
   },
   {
    "id": "c63560fca5",
@@ -3065,7 +3091,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 116
+   "rank": 117
   },
   {
    "id": "555314967a",
@@ -3091,7 +3117,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 117
+   "rank": 118
   },
   {
    "id": "6ef3cae27b",
@@ -3118,7 +3144,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 118
+   "rank": 119
   },
   {
    "id": "47f5bd9738",
@@ -3144,7 +3170,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 119
+   "rank": 120
   },
   {
    "id": "14252241a5",
@@ -3170,7 +3196,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 120
+   "rank": 121
   },
   {
    "id": "9dbd9fdd77",
@@ -3197,7 +3223,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 121
+   "rank": 122
   },
   {
    "id": "5304809dea",
@@ -3224,7 +3250,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 122
+   "rank": 123
   },
   {
    "id": "5a68163933",
@@ -3250,7 +3276,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 123
+   "rank": 124
   },
   {
    "id": "0ad17e73b6",
@@ -3276,7 +3302,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 124
+   "rank": 125
   },
   {
    "id": "6b15c0b539",
@@ -3302,7 +3328,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 125
+   "rank": 126
   },
   {
    "id": "b04596de51",
@@ -3330,7 +3356,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 126
+   "rank": 127
   },
   {
    "id": "612a8bc78a",
@@ -3356,7 +3382,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 127
+   "rank": 128
   },
   {
    "id": "69220f68a9",
@@ -3383,7 +3409,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 128
+   "rank": 129
   },
   {
    "id": "3edbd23e60",
@@ -3409,7 +3435,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 129
+   "rank": 130
   },
   {
    "id": "e3e77df3a4",
@@ -3435,7 +3461,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 130
+   "rank": 131
   },
   {
    "id": "ec9c1221e3",
@@ -3461,7 +3487,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 131
+   "rank": 132
   },
   {
    "id": "5d4255d055",
@@ -3487,7 +3513,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 132
+   "rank": 133
   },
   {
    "id": "0d3f587535",
@@ -3514,7 +3540,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 133
+   "rank": 134
   },
   {
    "id": "f6d9864072",
@@ -3540,7 +3566,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 134
+   "rank": 135
   },
   {
    "id": "8d0a924ce6",
@@ -3566,7 +3592,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 135
+   "rank": 136
   },
   {
    "id": "84ba5a80d8",
@@ -3592,7 +3618,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 136
+   "rank": 137
   },
   {
    "id": "ddd5d9f329",
@@ -3618,7 +3644,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 137
+   "rank": 138
   },
   {
    "id": "8abb2af676",
@@ -3645,7 +3671,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 138
+   "rank": 139
   },
   {
    "id": "ca97eb9089",
@@ -3671,7 +3697,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 139
+   "rank": 140
   },
   {
    "id": "97ef9d5dbc",
@@ -3698,7 +3724,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 140
+   "rank": 141
   },
   {
    "id": "f396c53b14",
@@ -3724,7 +3750,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 141
+   "rank": 142
   },
   {
    "id": "01017f97c8",
@@ -3751,7 +3777,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 142
+   "rank": 143
   },
   {
    "id": "1b9932069d",
@@ -3778,7 +3804,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 143
+   "rank": 144
   },
   {
    "id": "d30224145e",
@@ -3804,7 +3830,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 144
+   "rank": 145
   },
   {
    "id": "80fde76977",
@@ -3831,7 +3857,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 145
+   "rank": 146
   },
   {
    "id": "b2cde7330c",
@@ -3857,7 +3883,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 146
+   "rank": 147
   },
   {
    "id": "581306e024",
@@ -3883,7 +3909,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 147
+   "rank": 148
   },
   {
    "id": "e9797bd488",
@@ -3910,7 +3936,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 148
+   "rank": 149
   },
   {
    "id": "6a011a6d73",
@@ -3937,7 +3963,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 149
+   "rank": 150
   },
   {
    "id": "ec013eeed5",
@@ -3963,7 +3989,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 150
+   "rank": 151
   },
   {
    "id": "69f9be8d0d",
@@ -3990,7 +4016,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 151
+   "rank": 152
   },
   {
    "id": "bab4092c2b",
@@ -4017,7 +4043,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 152
+   "rank": 153
   },
   {
    "id": "e027dc22dd",
@@ -4043,7 +4069,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 153
+   "rank": 154
   },
   {
    "id": "6131d765a5",
@@ -4069,7 +4095,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 154
+   "rank": 155
   },
   {
    "id": "abac1ae910",
@@ -4095,7 +4121,33 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 155
+   "rank": 156
+  },
+  {
+   "id": "5a6883f383",
+   "title": "Junior Computer Vision Engineer – NextHub",
+   "company": "Deloitte Italia",
+   "location": "Bari (Italien)",
+   "region": "Rest-EU",
+   "type": "Vollzeit",
+   "remote": false,
+   "pay": "",
+   "fit": 3.0,
+   "why": "",
+   "notes": "Agri-CV: Detection/Segmentierung, Drohnen; 22.100–25.600 € brutto/J.; hybrid",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-20",
+   "posted": "19.10.26",
+   "url": "https://deloittecm.avature.net/en_US/careers/JobDetail/Junior-Computer-Vision-Engineer-NextHub-Bari/10636",
+   "section": "Vollzeit (Junior / ohne Senior-Titel)",
+   "sources": [
+    "Vollzeit (Junior / ohne Senior-Titel)"
+   ],
+   "group": 3,
+   "group_label": "Vollzeit Europa",
+   "rank": 157
   },
   {
    "id": "0b54de1de3",
@@ -4122,7 +4174,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 156
+   "rank": 158
   },
   {
    "id": "4c5348b298",
@@ -4148,7 +4200,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 157
+   "rank": 159
   },
   {
    "id": "204e11ef13",
@@ -4174,7 +4226,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 158
+   "rank": 160
   },
   {
    "id": "ede5e02a0e",
@@ -4201,7 +4253,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 159
+   "rank": 161
   },
   {
    "id": "ebb861cbcd",
@@ -4228,7 +4280,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 160
+   "rank": 162
   },
   {
    "id": "eca96a271f",
@@ -4254,7 +4306,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 161
+   "rank": 163
   },
   {
    "id": "322abe3879",
@@ -4281,7 +4333,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 162
+   "rank": 164
   },
   {
    "id": "c20491a3b0",
@@ -4307,7 +4359,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 163
+   "rank": 165
   },
   {
    "id": "6cb9513e8d",
@@ -4333,7 +4385,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 164
+   "rank": 166
   },
   {
    "id": "f04d73f778",
@@ -4359,7 +4411,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 165
+   "rank": 167
   },
   {
    "id": "b11911d77e",
@@ -4385,7 +4437,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 166
+   "rank": 168
   },
   {
    "id": "d353b7d28e",
@@ -4412,7 +4464,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 167
+   "rank": 169
   },
   {
    "id": "63206e23fc",
@@ -4439,7 +4491,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 168
+   "rank": 170
   },
   {
    "id": "d1ff504eb7",
@@ -4465,7 +4517,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 169
+   "rank": 171
   },
   {
    "id": "2cb30e08dc",
@@ -4492,7 +4544,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 170
+   "rank": 172
   },
   {
    "id": "4320915643",
@@ -4518,7 +4570,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 171
+   "rank": 173
   },
   {
    "id": "522be3dd0c",
@@ -4544,7 +4596,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 172
+   "rank": 174
   },
   {
    "id": "d6e0492051",
@@ -4570,7 +4622,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 173
+   "rank": 175
   },
   {
    "id": "05eb0eb26e",
@@ -4597,7 +4649,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 174
+   "rank": 176
   },
   {
    "id": "a0503d3088",
@@ -4623,7 +4675,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 175
+   "rank": 177
   },
   {
    "id": "2a9d58a04b",
@@ -4649,7 +4701,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 176
+   "rank": 178
   },
   {
    "id": "9eb515c446",
@@ -4675,7 +4727,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 177
+   "rank": 179
   },
   {
    "id": "846e146067",
@@ -4701,7 +4753,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 178
+   "rank": 180
   },
   {
    "id": "28328d306c",
@@ -4727,7 +4779,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 179
+   "rank": 181
   },
   {
    "id": "d16eb0bd7d",
@@ -4754,7 +4806,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 180
+   "rank": 182
   },
   {
    "id": "e10eea6d45",
@@ -4780,7 +4832,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 181
+   "rank": 183
   },
   {
    "id": "005bd372ed",
@@ -4806,7 +4858,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 182
+   "rank": 184
   },
   {
    "id": "1f0caa9069",
@@ -4832,7 +4884,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 183
+   "rank": 185
   },
   {
    "id": "bff0d357fc",
@@ -4858,7 +4910,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 184
+   "rank": 186
   },
   {
    "id": "41cd2d688d",
@@ -4884,7 +4936,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 185
+   "rank": 187
   },
   {
    "id": "c6d35d4071",
@@ -4911,7 +4963,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 186
+   "rank": 188
   },
   {
    "id": "f12046faf4",
@@ -4937,7 +4989,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 187
+   "rank": 189
   },
   {
    "id": "e547be9a7a",
@@ -4963,7 +5015,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 188
+   "rank": 190
   },
   {
    "id": "0c56313c23",
@@ -4990,7 +5042,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 189
+   "rank": 191
   },
   {
    "id": "f223abcffd",
@@ -5016,7 +5068,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 190
+   "rank": 192
   },
   {
    "id": "e0501ccb15",
@@ -5042,7 +5094,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 191
+   "rank": 193
   },
   {
    "id": "1722250210",
@@ -5068,7 +5120,7 @@
    ],
    "group": 3,
    "group_label": "Vollzeit Europa",
-   "rank": 192
+   "rank": 194
   },
   {
    "id": "6b7a0bfae5",
@@ -5094,7 +5146,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 193
+   "rank": 195
   },
   {
    "id": "a4cab6d06a",
@@ -5120,7 +5172,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 194
+   "rank": 196
   },
   {
    "id": "7442db7067",
@@ -5146,7 +5198,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 195
+   "rank": 197
   },
   {
    "id": "cf50de4a0e",
@@ -5172,7 +5224,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 196
+   "rank": 198
   },
   {
    "id": "e67ef7fd08",
@@ -5198,7 +5250,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 197
+   "rank": 199
   },
   {
    "id": "0ea7727dce",
@@ -5224,7 +5276,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 198
+   "rank": 200
   },
   {
    "id": "5727c04f92",
@@ -5250,7 +5302,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 199
+   "rank": 201
   },
   {
    "id": "66f9f6305e",
@@ -5276,7 +5328,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 200
+   "rank": 202
   },
   {
    "id": "0bf6a25978",
@@ -5302,7 +5354,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 201
+   "rank": 203
   },
   {
    "id": "ecc389b6b9",
@@ -5328,7 +5380,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 202
+   "rank": 204
   },
   {
    "id": "0e17266b25",
@@ -5354,7 +5406,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 203
+   "rank": 205
   },
   {
    "id": "414c2bc98c",
@@ -5380,7 +5432,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 204
+   "rank": 206
   },
   {
    "id": "b7068a727a",
@@ -5406,7 +5458,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 205
+   "rank": 207
   },
   {
    "id": "1828cbdfa3",
@@ -5432,7 +5484,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 206
+   "rank": 208
   },
   {
    "id": "580afe7da0",
@@ -5458,7 +5510,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 207
+   "rank": 209
   },
   {
    "id": "929684f24b",
@@ -5484,7 +5536,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 208
+   "rank": 210
   },
   {
    "id": "5af2aac1c1",
@@ -5510,7 +5562,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 209
+   "rank": 211
   },
   {
    "id": "8f7023239d",
@@ -5536,7 +5588,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 210
+   "rank": 212
   },
   {
    "id": "7e37f120bb",
@@ -5562,7 +5614,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 211
+   "rank": 213
   },
   {
    "id": "1c5069df15",
@@ -5588,7 +5640,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 212
+   "rank": 214
   },
   {
    "id": "6e947c85b2",
@@ -5614,7 +5666,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 213
+   "rank": 215
   },
   {
    "id": "08c9014d14",
@@ -5640,7 +5692,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 214
+   "rank": 216
   },
   {
    "id": "d048de2c88",
@@ -5667,7 +5719,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 215
+   "rank": 217
   },
   {
    "id": "ca96784761",
@@ -5693,7 +5745,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 216
+   "rank": 218
   },
   {
    "id": "0e4b67fef1",
@@ -5719,7 +5771,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 217
+   "rank": 219
   },
   {
    "id": "c9ffdcd7e7",
@@ -5746,7 +5798,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 218
+   "rank": 220
   },
   {
    "id": "6c6dfa10fb",
@@ -5772,7 +5824,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 219
+   "rank": 221
   },
   {
    "id": "45c29ccfc0",
@@ -5798,7 +5850,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 220
+   "rank": 222
   },
   {
    "id": "1631025ecb",
@@ -5824,7 +5876,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 221
+   "rank": 223
   },
   {
    "id": "3db00a7fbc",
@@ -5850,7 +5902,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 222
+   "rank": 224
   },
   {
    "id": "797b2fd4f3",
@@ -5876,7 +5928,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 223
+   "rank": 225
   },
   {
    "id": "151ada59a8",
@@ -5902,7 +5954,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 224
+   "rank": 226
   },
   {
    "id": "50431febdf",
@@ -5928,7 +5980,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 225
+   "rank": 227
   },
   {
    "id": "e4fbb396cc",
@@ -5955,7 +6007,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 226
+   "rank": 228
   },
   {
    "id": "fbfbe4eaa4",
@@ -5981,7 +6033,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 227
+   "rank": 229
   },
   {
    "id": "dbad1c2718",
@@ -6007,7 +6059,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 228
+   "rank": 230
   },
   {
    "id": "c863d5b1f2",
@@ -6033,7 +6085,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 229
+   "rank": 231
   },
   {
    "id": "d30d3b49c2",
@@ -6059,7 +6111,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 230
+   "rank": 232
   },
   {
    "id": "4a3efe5626",
@@ -6085,7 +6137,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 231
+   "rank": 233
   },
   {
    "id": "f4b0828b8b",
@@ -6111,7 +6163,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 232
+   "rank": 234
   },
   {
    "id": "4b15f22acd",
@@ -6137,7 +6189,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 233
+   "rank": 235
   },
   {
    "id": "1779c7dac6",
@@ -6164,7 +6216,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 234
+   "rank": 236
   },
   {
    "id": "1f46d0fdf7",
@@ -6190,7 +6242,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 235
+   "rank": 237
   },
   {
    "id": "79accbf193",
@@ -6216,7 +6268,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 236
+   "rank": 238
   },
   {
    "id": "538300030b",
@@ -6242,7 +6294,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 237
+   "rank": 239
   },
   {
    "id": "5c4b5850bc",
@@ -6268,7 +6320,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 238
+   "rank": 240
   },
   {
    "id": "9518b1a219",
@@ -6295,7 +6347,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 239
+   "rank": 241
   },
   {
    "id": "c553ec8e5a",
@@ -6321,7 +6373,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 240
+   "rank": 242
   },
   {
    "id": "1139e78f66",
@@ -6348,7 +6400,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 241
+   "rank": 243
   },
   {
    "id": "e8386185cb",
@@ -6374,7 +6426,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 242
+   "rank": 244
   },
   {
    "id": "0051255f7a",
@@ -6400,7 +6452,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 243
+   "rank": 245
   },
   {
    "id": "e7e11b09a1",
@@ -6426,7 +6478,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 244
+   "rank": 246
   },
   {
    "id": "04fabfd98a",
@@ -6452,7 +6504,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 245
+   "rank": 247
   },
   {
    "id": "4834f3d0f0",
@@ -6479,7 +6531,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 246
+   "rank": 248
   },
   {
    "id": "fe3c9d6f20",
@@ -6505,7 +6557,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 247
+   "rank": 249
   },
   {
    "id": "cf18e81ad7",
@@ -6531,7 +6583,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 248
+   "rank": 250
   },
   {
    "id": "dd797147d6",
@@ -6557,7 +6609,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 249
+   "rank": 251
   },
   {
    "id": "ef49a43228",
@@ -6583,7 +6635,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 250
+   "rank": 252
   },
   {
    "id": "3c9089efce",
@@ -6609,7 +6661,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 251
+   "rank": 253
   },
   {
    "id": "dd584bb43e",
@@ -6635,7 +6687,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 252
+   "rank": 254
   },
   {
    "id": "7439a1cd99",
@@ -6661,7 +6713,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 253
+   "rank": 255
   },
   {
    "id": "975eab1098",
@@ -6687,7 +6739,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 254
+   "rank": 256
   },
   {
    "id": "4eb79aa98c",
@@ -6714,7 +6766,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 255
+   "rank": 257
   },
   {
    "id": "6893326bce",
@@ -6740,7 +6792,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 256
+   "rank": 258
   },
   {
    "id": "2c5021ba9e",
@@ -6766,7 +6818,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 257
+   "rank": 259
   },
   {
    "id": "1d769415bb",
@@ -6792,7 +6844,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 258
+   "rank": 260
   },
   {
    "id": "de573e1771",
@@ -6818,7 +6870,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 259
+   "rank": 261
   },
   {
    "id": "d44a80efec",
@@ -6844,7 +6896,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 260
+   "rank": 262
   },
   {
    "id": "be55a8ad50",
@@ -6870,7 +6922,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 261
+   "rank": 263
   },
   {
    "id": "0fa0851ea8",
@@ -6896,7 +6948,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 262
+   "rank": 264
   },
   {
    "id": "f9931da723",
@@ -6922,7 +6974,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 263
+   "rank": 265
   },
   {
    "id": "6d24c9f816",
@@ -6948,7 +7000,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 264
+   "rank": 266
   },
   {
    "id": "85fb59a6f5",
@@ -6974,7 +7026,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 265
+   "rank": 267
   },
   {
    "id": "45c19164d4",
@@ -7000,7 +7052,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 266
+   "rank": 268
   },
   {
    "id": "fee5752989",
@@ -7026,7 +7078,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 267
+   "rank": 269
   },
   {
    "id": "74f1b538e2",
@@ -7052,7 +7104,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 268
+   "rank": 270
   },
   {
    "id": "a92a70ce75",
@@ -7078,7 +7130,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 269
+   "rank": 271
   },
   {
    "id": "07f3a36037",
@@ -7105,7 +7157,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 270
+   "rank": 272
   },
   {
    "id": "8684e4a210",
@@ -7132,7 +7184,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 271
+   "rank": 273
   },
   {
    "id": "8be53d3019",
@@ -7158,7 +7210,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 272
+   "rank": 274
   },
   {
    "id": "5e0fd0a047",
@@ -7184,7 +7236,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 273
+   "rank": 275
   },
   {
    "id": "a71c55f31c",
@@ -7210,7 +7262,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 274
+   "rank": 276
   },
   {
    "id": "41308c77e4",
@@ -7236,7 +7288,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 275
+   "rank": 277
   },
   {
    "id": "51cf6861a1",
@@ -7262,7 +7314,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 276
+   "rank": 278
   },
   {
    "id": "bfc2c2d980",
@@ -7289,7 +7341,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 277
+   "rank": 279
   },
   {
    "id": "a3d4a06937",
@@ -7316,7 +7368,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 278
+   "rank": 280
   },
   {
    "id": "d7b4053c4b",
@@ -7342,7 +7394,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 279
+   "rank": 281
   },
   {
    "id": "567a71abb4",
@@ -7368,7 +7420,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 280
+   "rank": 282
   },
   {
    "id": "763384d1f4",
@@ -7394,7 +7446,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 281
+   "rank": 283
   },
   {
    "id": "6076f7e161",
@@ -7420,7 +7472,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 282
+   "rank": 284
   },
   {
    "id": "13382a3983",
@@ -7446,7 +7498,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 283
+   "rank": 285
   },
   {
    "id": "7793fb6d2d",
@@ -7472,7 +7524,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 284
+   "rank": 286
   },
   {
    "id": "a90cb55c4c",
@@ -7498,7 +7550,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 285
+   "rank": 287
   },
   {
    "id": "c159d5c5cb",
@@ -7524,7 +7576,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 286
+   "rank": 288
   },
   {
    "id": "d8239b6f2a",
@@ -7550,7 +7602,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 287
+   "rank": 289
   },
   {
    "id": "5e4ca51e76",
@@ -7576,7 +7628,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 288
+   "rank": 290
   },
   {
    "id": "ab21dd54d9",
@@ -7602,7 +7654,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 289
+   "rank": 291
   },
   {
    "id": "6fe62357ed",
@@ -7628,7 +7680,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 290
+   "rank": 292
   },
   {
    "id": "ed4b0fabd5",
@@ -7654,7 +7706,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 291
+   "rank": 293
   },
   {
    "id": "5ff58ae699",
@@ -7680,7 +7732,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 292
+   "rank": 294
   },
   {
    "id": "e30381ce29",
@@ -7706,7 +7758,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 293
+   "rank": 295
   },
   {
    "id": "e63bae07e9",
@@ -7732,7 +7784,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 294
+   "rank": 296
   },
   {
    "id": "9e97645fcc",
@@ -7758,7 +7810,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 295
+   "rank": 297
   },
   {
    "id": "5c532b2498",
@@ -7784,7 +7836,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 296
+   "rank": 298
   },
   {
    "id": "9cc27d6dec",
@@ -7811,7 +7863,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 297
+   "rank": 299
   },
   {
    "id": "7cd1b053eb",
@@ -7837,7 +7889,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 298
+   "rank": 300
   },
   {
    "id": "f26181463f",
@@ -7863,7 +7915,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 299
+   "rank": 301
   },
   {
    "id": "ed306a1ddd",
@@ -7889,7 +7941,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 300
+   "rank": 302
   },
   {
    "id": "daec43ca1e",
@@ -7915,7 +7967,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 301
+   "rank": 303
   },
   {
    "id": "c69270db3c",
@@ -7941,7 +7993,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 302
+   "rank": 304
   },
   {
    "id": "d38625f0b2",
@@ -7968,7 +8020,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 303
+   "rank": 305
   },
   {
    "id": "4d31e718da",
@@ -7995,7 +8047,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 304
+   "rank": 306
   },
   {
    "id": "ae4009d4d0",
@@ -8022,7 +8074,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 305
+   "rank": 307
   },
   {
    "id": "b6020eb158",
@@ -8048,7 +8100,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 306
+   "rank": 308
   },
   {
    "id": "e0d520b3a5",
@@ -8074,7 +8126,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 307
+   "rank": 309
   },
   {
    "id": "08a704e5d8",
@@ -8100,7 +8152,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 308
+   "rank": 310
   },
   {
    "id": "5574465150",
@@ -8126,7 +8178,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 309
+   "rank": 311
   },
   {
    "id": "004514a754",
@@ -8152,7 +8204,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 310
+   "rank": 312
   },
   {
    "id": "b515f23f96",
@@ -8178,7 +8230,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 311
+   "rank": 313
   },
   {
    "id": "ee2f6c8bd5",
@@ -8205,7 +8257,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 312
+   "rank": 314
   },
   {
    "id": "6d6704603c",
@@ -8231,7 +8283,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 313
+   "rank": 315
   },
   {
    "id": "1774671d60",
@@ -8257,7 +8309,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 314
+   "rank": 316
   },
   {
    "id": "87277589c9",
@@ -8283,7 +8335,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 315
+   "rank": 317
   },
   {
    "id": "de5fb8496a",
@@ -8309,7 +8361,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 316
+   "rank": 318
   },
   {
    "id": "c3c07697eb",
@@ -8336,7 +8388,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 317
+   "rank": 319
   },
   {
    "id": "c99bba3fae",
@@ -8362,7 +8414,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 318
+   "rank": 320
   },
   {
    "id": "f7be8420f2",
@@ -8388,7 +8440,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 319
+   "rank": 321
   },
   {
    "id": "b8bb649213",
@@ -8414,7 +8466,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 320
+   "rank": 322
   },
   {
    "id": "f4f52d88ba",
@@ -8441,7 +8493,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 321
+   "rank": 323
   },
   {
    "id": "e63a6bf69e",
@@ -8467,7 +8519,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 322
+   "rank": 324
   },
   {
    "id": "fdc828d22c",
@@ -8493,7 +8545,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 323
+   "rank": 325
   },
   {
    "id": "a0222d1427",
@@ -8519,7 +8571,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 324
+   "rank": 326
   },
   {
    "id": "fa52bf0d14",
@@ -8545,7 +8597,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 325
+   "rank": 327
   },
   {
    "id": "0a83e07bf9",
@@ -8571,7 +8623,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 326
+   "rank": 328
   },
   {
    "id": "95df0c4363",
@@ -8597,7 +8649,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 327
+   "rank": 329
   },
   {
    "id": "393daff685",
@@ -8623,7 +8675,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 328
+   "rank": 330
   },
   {
    "id": "dd6b754f16",
@@ -8649,7 +8701,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 329
+   "rank": 331
   },
   {
    "id": "42460eda8d",
@@ -8676,7 +8728,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 330
+   "rank": 332
   },
   {
    "id": "f517164d58",
@@ -8702,7 +8754,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 331
+   "rank": 333
   },
   {
    "id": "c21dbba922",
@@ -8728,7 +8780,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 332
+   "rank": 334
   },
   {
    "id": "fcf2df1e82",
@@ -8754,7 +8806,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 333
+   "rank": 335
   },
   {
    "id": "56bbd72a5c",
@@ -8780,7 +8832,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 334
+   "rank": 336
   },
   {
    "id": "f7064e001f",
@@ -8806,7 +8858,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 335
+   "rank": 337
   },
   {
    "id": "171198f991",
@@ -8832,7 +8884,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 336
+   "rank": 338
   },
   {
    "id": "832ce187b8",
@@ -8858,7 +8910,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 337
+   "rank": 339
   },
   {
    "id": "735958829a",
@@ -8884,7 +8936,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 338
+   "rank": 340
   },
   {
    "id": "ea5f224f18",
@@ -8910,7 +8962,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 339
+   "rank": 341
   },
   {
    "id": "ba84cfd5f7",
@@ -8936,7 +8988,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 340
+   "rank": 342
   },
   {
    "id": "c3594d84df",
@@ -8962,7 +9014,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 341
+   "rank": 343
   },
   {
    "id": "2189588bc7",
@@ -8988,7 +9040,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 342
+   "rank": 344
   },
   {
    "id": "93678ac965",
@@ -9014,7 +9066,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 343
+   "rank": 345
   },
   {
    "id": "5d27613f43",
@@ -9041,7 +9093,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 344
+   "rank": 346
   },
   {
    "id": "2bc701d922",
@@ -9068,7 +9120,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 345
+   "rank": 347
   },
   {
    "id": "c67551a6a7",
@@ -9094,7 +9146,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 346
+   "rank": 348
   },
   {
    "id": "258b1d7b42",
@@ -9120,7 +9172,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 347
+   "rank": 349
   },
   {
    "id": "6018ef0e86",
@@ -9147,7 +9199,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 348
+   "rank": 350
   },
   {
    "id": "9196264c76",
@@ -9173,7 +9225,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 349
+   "rank": 351
   },
   {
    "id": "ccb6b30c57",
@@ -9199,7 +9251,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 350
+   "rank": 352
   },
   {
    "id": "629454473c",
@@ -9226,7 +9278,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 351
+   "rank": 353
   },
   {
    "id": "6fba12445c",
@@ -9252,7 +9304,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 352
+   "rank": 354
   },
   {
    "id": "ff14a7ff36",
@@ -9279,7 +9331,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 353
+   "rank": 355
   },
   {
    "id": "02c8c4e635",
@@ -9305,7 +9357,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 354
+   "rank": 356
   },
   {
    "id": "12548c6231",
@@ -9331,7 +9383,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 355
+   "rank": 357
   },
   {
    "id": "652eadac5a",
@@ -9357,7 +9409,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 356
+   "rank": 358
   },
   {
    "id": "d696ac0b4a",
@@ -9383,7 +9435,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 357
+   "rank": 359
   },
   {
    "id": "feee9f4539",
@@ -9409,7 +9461,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 358
+   "rank": 360
   },
   {
    "id": "61f0fc8f49",
@@ -9435,7 +9487,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 359
+   "rank": 361
   },
   {
    "id": "d062916296",
@@ -9461,7 +9513,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 360
+   "rank": 362
   },
   {
    "id": "3ae5bec6c5",
@@ -9487,7 +9539,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 361
+   "rank": 363
   },
   {
    "id": "96cae48427",
@@ -9513,7 +9565,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 362
+   "rank": 364
   },
   {
    "id": "51b80d0813",
@@ -9539,7 +9591,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 363
+   "rank": 365
   },
   {
    "id": "71622f3dd2",
@@ -9565,7 +9617,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 364
+   "rank": 366
   },
   {
    "id": "23c1144f9b",
@@ -9591,7 +9643,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 365
+   "rank": 367
   },
   {
    "id": "9889ebff64",
@@ -9617,7 +9669,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 366
+   "rank": 368
   },
   {
    "id": "cc33c023e9",
@@ -9643,7 +9695,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 367
+   "rank": 369
   },
   {
    "id": "1d0bd9722a",
@@ -9669,7 +9721,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 368
+   "rank": 370
   },
   {
    "id": "6d8cb1786c",
@@ -9696,7 +9748,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 369
+   "rank": 371
   },
   {
    "id": "4644eeb73d",
@@ -9722,7 +9774,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 370
+   "rank": 372
   },
   {
    "id": "34795e6d31",
@@ -9748,7 +9800,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 371
+   "rank": 373
   },
   {
    "id": "22f09541f5",
@@ -9774,7 +9826,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 372
+   "rank": 374
   },
   {
    "id": "1c0b5874f4",
@@ -9800,7 +9852,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 373
+   "rank": 375
   },
   {
    "id": "43333076c3",
@@ -9826,7 +9878,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 374
+   "rank": 376
   },
   {
    "id": "254a297034",
@@ -9852,7 +9904,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 375
+   "rank": 377
   },
   {
    "id": "e44b62b328",
@@ -9878,7 +9930,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 376
+   "rank": 378
   },
   {
    "id": "41a583c997",
@@ -9904,7 +9956,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 377
+   "rank": 379
   },
   {
    "id": "4ab03810d3",
@@ -9931,7 +9983,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 378
+   "rank": 380
   },
   {
    "id": "5f315fe9aa",
@@ -9958,7 +10010,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 379
+   "rank": 381
   },
   {
    "id": "d46499cd92",
@@ -9984,7 +10036,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 380
+   "rank": 382
   },
   {
    "id": "f2b39b0ddd",
@@ -10010,7 +10062,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 381
+   "rank": 383
   },
   {
    "id": "a54a9b8e8f",
@@ -10036,7 +10088,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 382
+   "rank": 384
   },
   {
    "id": "b529d7cae4",
@@ -10062,7 +10114,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 383
+   "rank": 385
   },
   {
    "id": "354b71404b",
@@ -10088,7 +10140,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 384
+   "rank": 386
   },
   {
    "id": "05f96e0fb8",
@@ -10114,7 +10166,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 385
+   "rank": 387
   },
   {
    "id": "65c311ad95",
@@ -10140,7 +10192,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 386
+   "rank": 388
   },
   {
    "id": "34709f20b9",
@@ -10166,7 +10218,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 387
+   "rank": 389
   },
   {
    "id": "671a3f5dcc",
@@ -10192,7 +10244,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 388
+   "rank": 390
   },
   {
    "id": "edc94e35fa",
@@ -10218,7 +10270,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 389
+   "rank": 391
   },
   {
    "id": "3be9b5ab0b",
@@ -10244,7 +10296,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 390
+   "rank": 392
   },
   {
    "id": "c0c978949f",
@@ -10270,7 +10322,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 391
+   "rank": 393
   },
   {
    "id": "2373a444f8",
@@ -10296,7 +10348,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 392
+   "rank": 394
   },
   {
    "id": "70d8b916f3",
@@ -10323,7 +10375,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 393
+   "rank": 395
   },
   {
    "id": "f55bb7bd63",
@@ -10349,7 +10401,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 394
+   "rank": 396
   },
   {
    "id": "b80b7c21b8",
@@ -10375,7 +10427,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 395
+   "rank": 397
   },
   {
    "id": "d55b7a3d8c",
@@ -10401,7 +10453,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 396
+   "rank": 398
   },
   {
    "id": "1175045e69",
@@ -10427,7 +10479,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 397
+   "rank": 399
   },
   {
    "id": "8237756b4b",
@@ -10453,7 +10505,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 398
+   "rank": 400
   },
   {
    "id": "f99f1e6da3",
@@ -10479,7 +10531,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 399
+   "rank": 401
   },
   {
    "id": "5e57065721",
@@ -10505,7 +10557,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 400
+   "rank": 402
   },
   {
    "id": "ba0383cac8",
@@ -10531,7 +10583,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 401
+   "rank": 403
   },
   {
    "id": "31322884d8",
@@ -10557,7 +10609,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 402
+   "rank": 404
   },
   {
    "id": "b93d0c52db",
@@ -10583,7 +10635,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 403
+   "rank": 405
   },
   {
    "id": "ff9f63bb57",
@@ -10609,7 +10661,7 @@
    ],
    "group": 4,
    "group_label": "Praktikum",
-   "rank": 404
+   "rank": 406
   },
   {
    "id": "c50a9845b1",
@@ -10635,7 +10687,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 405
+   "rank": 407
   },
   {
    "id": "00883d60e2",
@@ -10662,7 +10714,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 406
+   "rank": 408
   },
   {
    "id": "d529404a77",
@@ -10688,7 +10740,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 407
+   "rank": 409
   },
   {
    "id": "26e5debb6d",
@@ -10715,7 +10767,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 408
+   "rank": 410
   },
   {
    "id": "1cd433ae26",
@@ -10741,7 +10793,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 409
+   "rank": 411
   },
   {
    "id": "06b395e992",
@@ -10768,7 +10820,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 410
+   "rank": 412
   },
   {
    "id": "d8d518d379",
@@ -10795,7 +10847,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 411
+   "rank": 413
   },
   {
    "id": "7dfe453549",
@@ -10822,7 +10874,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 412
+   "rank": 414
   },
   {
    "id": "b2ad488e84",
@@ -10849,7 +10901,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 413
+   "rank": 415
   },
   {
    "id": "d3fdeed94f",
@@ -10875,7 +10927,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 414
+   "rank": 416
   },
   {
    "id": "65e1b1bb6e",
@@ -10902,7 +10954,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 415
+   "rank": 417
   },
   {
    "id": "5cf1c14676",
@@ -10929,7 +10981,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 416
+   "rank": 418
   },
   {
    "id": "5cad72d914",
@@ -10956,7 +11008,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 417
+   "rank": 419
   },
   {
    "id": "e9a7709bce",
@@ -10983,7 +11035,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 418
+   "rank": 420
   },
   {
    "id": "fc0b80f9dc",
@@ -11009,7 +11061,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 419
+   "rank": 421
   },
   {
    "id": "ae3e718035",
@@ -11036,7 +11088,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 420
+   "rank": 422
   },
   {
    "id": "1b36b59533",
@@ -11062,7 +11114,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 421
+   "rank": 423
   },
   {
    "id": "6ece261e61",
@@ -11088,7 +11140,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 422
+   "rank": 424
   },
   {
    "id": "86aa65ca93",
@@ -11114,7 +11166,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 423
+   "rank": 425
   },
   {
    "id": "90d80ca930",
@@ -11140,7 +11192,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 424
+   "rank": 426
   },
   {
    "id": "389ba579d6",
@@ -11167,7 +11219,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 425
+   "rank": 427
   },
   {
    "id": "e9e9d7acaa",
@@ -11193,7 +11245,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 426
+   "rank": 428
   },
   {
    "id": "a759aacca8",
@@ -11219,7 +11271,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 427
+   "rank": 429
   },
   {
    "id": "d4ebf09b15",
@@ -11246,7 +11298,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 428
+   "rank": 430
   },
   {
    "id": "5f65784ae8",
@@ -11272,7 +11324,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 429
+   "rank": 431
   },
   {
    "id": "f40c087910",
@@ -11299,7 +11351,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 430
+   "rank": 432
   },
   {
    "id": "b71461cb3e",
@@ -11326,7 +11378,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 431
+   "rank": 433
   },
   {
    "id": "6f02259f3f",
@@ -11352,7 +11404,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 432
+   "rank": 434
   },
   {
    "id": "fe099cec99",
@@ -11378,7 +11430,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 433
+   "rank": 435
   },
   {
    "id": "a1efc9b4bc",
@@ -11404,7 +11456,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 434
+   "rank": 436
   },
   {
    "id": "84ca54e29d",
@@ -11431,7 +11483,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 435
+   "rank": 437
   },
   {
    "id": "8bb03e0183",
@@ -11457,7 +11509,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 436
+   "rank": 438
   },
   {
    "id": "51e4629fee",
@@ -11483,7 +11535,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 437
+   "rank": 439
   },
   {
    "id": "14325b3463",
@@ -11510,7 +11562,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 438
+   "rank": 440
   },
   {
    "id": "99a2bbb002",
@@ -11537,7 +11589,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 439
+   "rank": 441
   },
   {
    "id": "c2c5a74fe0",
@@ -11564,7 +11616,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 440
+   "rank": 442
   },
   {
    "id": "e3232def18",
@@ -11591,7 +11643,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 441
+   "rank": 443
   },
   {
    "id": "30cc40b82a",
@@ -11618,7 +11670,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 442
+   "rank": 444
   },
   {
    "id": "2b22745a1d",
@@ -11644,7 +11696,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 443
+   "rank": 445
   },
   {
    "id": "32308d9beb",
@@ -11670,7 +11722,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 444
+   "rank": 446
   },
   {
    "id": "5014a15562",
@@ -11696,7 +11748,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 445
+   "rank": 447
   },
   {
    "id": "79d23b0ba3",
@@ -11722,7 +11774,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 446
+   "rank": 448
   },
   {
    "id": "6c611f0de5",
@@ -11749,7 +11801,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 447
+   "rank": 449
   },
   {
    "id": "5e90cd280c",
@@ -11775,7 +11827,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 448
+   "rank": 450
   },
   {
    "id": "bd0266818e",
@@ -11801,7 +11853,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 449
+   "rank": 451
   },
   {
    "id": "362883d310",
@@ -11827,7 +11879,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 450
+   "rank": 452
   },
   {
    "id": "0f72fbeaa6",
@@ -11853,7 +11905,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 451
+   "rank": 453
   },
   {
    "id": "d96644af0e",
@@ -11879,7 +11931,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 452
+   "rank": 454
   },
   {
    "id": "aa6835fca9",
@@ -11906,33 +11958,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 453
-  },
-  {
-   "id": "e62bd1e2f2",
-   "title": "Software Engineer, Computer Vision",
-   "company": "CircuitHub",
-   "location": "Remote (Standorte London/Cambridge UK und USA)",
-   "region": "USA",
-   "type": "Vollzeit",
-   "remote": true,
-   "pay": "",
-   "fit": 4.0,
-   "why": "",
-   "notes": "Produktions-CV für Bestückungsroboter: optische Inspektion, Pick-Erkennung, Kalibrierung; „shipped CV into production“; £80–125k + Equity",
-   "constraints": "",
-   "visa": "USA: Arbeitsvisum nötig",
-   "deadline": null,
-   "added": "2026-10-20",
-   "posted": "19.10.26",
-   "url": "https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14",
-   "section": "Vollzeit (Junior / ohne Senior-Titel)",
-   "sources": [
-    "Vollzeit (Junior / ohne Senior-Titel)"
-   ],
-   "group": 6,
-   "group_label": "Vollzeit außerhalb Europa",
-   "rank": 454
+   "rank": 455
   },
   {
    "id": "26608a190f",
@@ -11958,7 +11984,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 455
+   "rank": 456
   },
   {
    "id": "370481d0b3",
@@ -11981,32 +12007,6 @@
    "section": "Jobs",
    "sources": [
     "Jobs"
-   ],
-   "group": 6,
-   "group_label": "Vollzeit außerhalb Europa",
-   "rank": 456
-  },
-  {
-   "id": "5a6883f383",
-   "title": "Junior Computer Vision Engineer – NextHub",
-   "company": "Deloitte Italia",
-   "location": "Bari (IT)",
-   "region": "Sonstige",
-   "type": "Vollzeit",
-   "remote": false,
-   "pay": "",
-   "fit": 3.0,
-   "why": "",
-   "notes": "Agri-CV: Detection/Segmentierung, Drohnen; 22.100–25.600 € brutto/J.; hybrid",
-   "constraints": "",
-   "visa": "",
-   "deadline": null,
-   "added": "2026-10-20",
-   "posted": "19.10.26",
-   "url": "https://deloittecm.avature.net/en_US/careers/JobDetail/Junior-Computer-Vision-Engineer-NextHub-Bari/10636",
-   "section": "Vollzeit (Junior / ohne Senior-Titel)",
-   "sources": [
-    "Vollzeit (Junior / ohne Senior-Titel)"
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
