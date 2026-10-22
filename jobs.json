@@ -1,7 +1,7 @@
 {
  "meta": {
-  "updated": "2026-10-22T09:03+02:00",
-  "count": 522,
+  "updated": "2026-10-22T09:05+02:00",
+  "count": 523,
   "source_doc": "Jobvergleich (Google Doc)",
   "raw_doc_entries": 612
  },
@@ -12253,6 +12253,33 @@
    "rank": 465
   },
   {
+   "id": "2940cc30d8",
+   "title": "Promotion „Flexible Robotik für die Materialhandhabung“: VLA-Modelle, Reinforcement Learning, Imitation Learning, 36 Monate; auf LinkedIn seit 21.10.2026",
+   "company": "TRUMPF (Industrie-Promotion)",
+   "location": "Ditzingen bei Stuttgart",
+   "region": "Deutschland",
+   "type": "PhD/WiMi",
+   "remote": false,
+   "pay": "Promotionsvertrag (k. A.)",
+   "fit": 5.0,
+   "why": "genau Embodied AI/LLM-Robotik \\+ Imitation Learning (VDI-CuP",
+   "notes": "",
+   "constraints": "",
+   "visa": "EU-Freizügigkeit – kein Visum nötig",
+   "deadline": null,
+   "added": "2026-10-22",
+   "posted": "",
+   "url": "https://www.linkedin.com/jobs/view/4480789924",
+   "section": "3) PhD / WiMi (nach Frist sortiert)",
+   "sources": [
+    "3) PhD / WiMi (nach Frist sortiert)",
+    "Tagesdigest 22.10. – PhD"
+   ],
+   "group": 5,
+   "group_label": "PhD / WiMi",
+   "rank": 466
+  },
+  {
    "id": "b2ad488e84",
    "title": "Perception Scientist + Promotion: Scene Understanding für autonome Rennfahrzeuge – Bewerbung an [bewerbung.ftm@ed.tum.de](mailto:bewerbung.ftm@ed.tum.de); Deutsch B2",
    "company": "TUM FTM, Autonomous Motorsport (Kontakt Simon Sagmeister)",
@@ -12277,7 +12304,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 466
+   "rank": 467
   },
   {
    "id": "d3fdeed94f",
@@ -12303,7 +12330,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 467
+   "rank": 468
   },
   {
    "id": "65e1b1bb6e",
@@ -12330,7 +12357,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 468
+   "rank": 469
   },
   {
    "id": "5cf1c14676",
@@ -12357,7 +12384,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 469
+   "rank": 470
   },
   {
    "id": "5cad72d914",
@@ -12384,7 +12411,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 470
+   "rank": 471
   },
   {
    "id": "fc0b80f9dc",
@@ -12410,7 +12437,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 471
+   "rank": 472
   },
   {
    "id": "ae3e718035",
@@ -12437,7 +12464,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 472
+   "rank": 473
   },
   {
    "id": "1b36b59533",
@@ -12463,7 +12490,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 473
+   "rank": 474
   },
   {
    "id": "6ece261e61",
@@ -12489,7 +12516,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 474
+   "rank": 475
   },
   {
    "id": "86aa65ca93",
@@ -12515,7 +12542,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 475
+   "rank": 476
   },
   {
    "id": "90d80ca930",
@@ -12541,7 +12568,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 476
+   "rank": 477
   },
   {
    "id": "389ba579d6",
@@ -12568,7 +12595,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 477
+   "rank": 478
   },
   {
    "id": "e9e9d7acaa",
@@ -12594,7 +12621,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 478
+   "rank": 479
   },
   {
    "id": "a759aacca8",
@@ -12620,7 +12647,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 479
+   "rank": 480
   },
   {
    "id": "d4ebf09b15",
@@ -12647,7 +12674,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 480
+   "rank": 481
   },
   {
    "id": "5f65784ae8",
@@ -12673,7 +12700,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 481
+   "rank": 482
   },
   {
    "id": "f40c087910",
@@ -12700,7 +12727,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 482
+   "rank": 483
   },
   {
    "id": "b71461cb3e",
@@ -12727,7 +12754,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 483
+   "rank": 484
   },
   {
    "id": "6f02259f3f",
@@ -12753,7 +12780,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 484
+   "rank": 485
   },
   {
    "id": "fe099cec99",
@@ -12779,7 +12806,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 485
+   "rank": 486
   },
   {
    "id": "a1efc9b4bc",
@@ -12805,7 +12832,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 486
+   "rank": 487
   },
   {
    "id": "84ca54e29d",
@@ -12832,7 +12859,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 487
+   "rank": 488
   },
   {
    "id": "8bb03e0183",
@@ -12858,7 +12885,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 488
+   "rank": 489
   },
   {
    "id": "51e4629fee",
@@ -12884,7 +12911,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 489
+   "rank": 490
   },
   {
    "id": "14325b3463",
@@ -12911,7 +12938,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 490
+   "rank": 491
   },
   {
    "id": "99a2bbb002",
@@ -12938,7 +12965,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 491
+   "rank": 492
   },
   {
    "id": "c2c5a74fe0",
@@ -12965,7 +12992,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 492
+   "rank": 493
   },
   {
    "id": "e3232def18",
@@ -12992,7 +13019,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 493
+   "rank": 494
   },
   {
    "id": "30cc40b82a",
@@ -13019,7 +13046,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 494
+   "rank": 495
   },
   {
    "id": "2b22745a1d",
@@ -13045,7 +13072,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 495
+   "rank": 496
   },
   {
    "id": "9abed79ed5",
@@ -13072,7 +13099,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 496
+   "rank": 497
   },
   {
    "id": "32308d9beb",
@@ -13098,7 +13125,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 497
+   "rank": 498
   },
   {
    "id": "01641145ff",
@@ -13125,7 +13152,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 498
+   "rank": 499
   },
   {
    "id": "5014a15562",
@@ -13151,7 +13178,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 499
+   "rank": 500
   },
   {
    "id": "552b8604c6",
@@ -13178,7 +13205,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 500
+   "rank": 501
   },
   {
    "id": "996204c1dd",
@@ -13205,7 +13232,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 501
+   "rank": 502
   },
   {
    "id": "79d23b0ba3",
@@ -13231,7 +13258,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 502
+   "rank": 503
   },
   {
    "id": "0bf8f7d413",
@@ -13258,7 +13285,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 503
+   "rank": 504
   },
   {
    "id": "6c611f0de5",
@@ -13285,7 +13312,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 504
+   "rank": 505
   },
   {
    "id": "5e90cd280c",
@@ -13311,7 +13338,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 505
+   "rank": 506
   },
   {
    "id": "cfcb99c66a",
@@ -13338,7 +13365,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 506
+   "rank": 507
   },
   {
    "id": "1f37c98eaf",
@@ -13365,7 +13392,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 507
+   "rank": 508
   },
   {
    "id": "bd0266818e",
@@ -13391,7 +13418,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 508
+   "rank": 509
   },
   {
    "id": "0f72fbeaa6",
@@ -13417,7 +13444,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 509
+   "rank": 510
   },
   {
    "id": "d96644af0e",
@@ -13443,7 +13470,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 510
+   "rank": 511
   },
   {
    "id": "b1282d3c0a",
@@ -13470,7 +13497,7 @@
    ],
    "group": 5,
    "group_label": "PhD / WiMi",
-   "rank": 511
+   "rank": 512
   },
   {
    "id": "aa6835fca9",
@@ -13497,7 +13524,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 512
+   "rank": 513
   },
   {
    "id": "a07658de8c",
@@ -13524,7 +13551,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 513
+   "rank": 514
   },
   {
    "id": "26608a190f",
@@ -13550,7 +13577,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 514
+   "rank": 515
   },
   {
    "id": "370481d0b3",
@@ -13576,7 +13603,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 515
+   "rank": 516
   },
   {
    "id": "f493d179ed",
@@ -13603,7 +13630,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 516
+   "rank": 517
   },
   {
    "id": "945ff68c74",
@@ -13629,7 +13656,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 517
+   "rank": 518
   },
   {
    "id": "a3a6ae0e4e",
@@ -13655,7 +13682,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 518
+   "rank": 519
   },
   {
    "id": "cf19ca9da7",
@@ -13682,7 +13709,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 519
+   "rank": 520
   },
   {
    "id": "9196264c76",
@@ -13708,7 +13735,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 520
+   "rank": 521
   },
   {
    "id": "d9e9f59c65",
@@ -13735,7 +13762,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 521
+   "rank": 522
   },
   {
    "id": "f8a4dc0fb8",
@@ -13761,7 +13788,7 @@
    ],
    "group": 6,
    "group_label": "Vollzeit außerhalb Europa",
-   "rank": 522
+   "rank": 523
   }
  ]
 }
